@@ -2,7 +2,7 @@
 layout: post
 title:  "The Journey Begins"
 date:   2016-08-01
-banner_image: Desk.jpg
+banner_image: footprints.jpg
 tags: [entrepreneur, balance, parenthood]
 ---
 This is the beginning of the my story, the first page of what I hope to be the chapter that births my new beginning.  What has inspired this?? Life, and love….I am the proud new mother of my son Joshua.  All 16 weeks of motherhood have been a fierce combination of emotions, sleep deprivation, intimate beauty, overwhelmed with joy.  A journey that has created an abundance of hope, unrivalled love and a desire to be the best I can…
