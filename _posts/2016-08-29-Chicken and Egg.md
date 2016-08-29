@@ -8,6 +8,7 @@ tags: [entrepreneur, balance, parenthood, change, direction, ideas, independence
 It's an overwhelming, but reassuring feeling when you know what you need to do but have no idea how to do it! Following a nice break with the family on a hunt for Winnie the Pooh and a beautiful double wedding, its back to work!
 
 So where do I start?
+<!--more-->
 
 My mission is to help new parents with children under 2 to have confidence in public and freedom in the community because parents should feel confident enough to go out so that they can improve the moods of themselves and their children and enjoy their time together.
 
