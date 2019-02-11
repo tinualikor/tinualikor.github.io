@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/golang/src/github.com/alikor/tinualikor",
+	"sourceRoot": "/Users/atinuadeadeniji-adele/.go/src/github.com/alikor/tinualikor",
 	"sources": [
 		"sass/main.scss",
 		"sass/_colors.scss",
