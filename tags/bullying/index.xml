@@ -9,7 +9,7 @@
     <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
     <lastBuildDate>Mon, 27 Aug 2018 06:01:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tinualikor.com/tags/bullying/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tinualikor.com/tags/bullying/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,17 @@
       <pubDate>Mon, 27 Aug 2018 06:01:00 +0000</pubDate>
       
       <guid>https://tinualikor.com/blog/love-yourself/</guid>
+        
+        
+        <image>
+
+        
+            <url>https://tinualikor.com/blog/love-yourself/images/feature_hu8bc1fff2af24458dba8e5250014f41bc_145314_790x0_resize_q75_box.jpg</url>
+          
+            <title>Love yourself</title>
+            <link>https://tinualikor.com/blog/love-yourself/</link>
+        </image>
+          
       <description>This blog is for everyone who contacted me in private or public about one of my previous blogs ‘ Freedom’. I was brought to tears by you reaching out to share your stories with me. I’m touched by the strength in your daily struggles and the memories that you hold on to. I’m inspired by you. Thank you for reaching out, thank you for sharing. Vulnerability is not weakness, it’s powerful.</description>
     </item>
     
