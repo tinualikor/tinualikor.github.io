@@ -9,7 +9,7 @@
     <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
     <lastBuildDate>Mon, 06 Aug 2018 06:01:01 +0000</lastBuildDate>
     
-	<atom:link href="https://tinualikor.com/tags/journey/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tinualikor.com/tags/journey/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,17 @@
       <pubDate>Mon, 06 Aug 2018 06:01:01 +0000</pubDate>
       
       <guid>https://tinualikor.com/blog/new-beginnings/</guid>
+        
+        
+        <image>
+
+        
+            <url>https://tinualikor.com/blog/new-beginnings/images/feature_hudd0083435af24690f53923ecf868f4ec_208191_790x0_resize_q75_box.jpg</url>
+          
+            <title>New Beginnings</title>
+            <link>https://tinualikor.com/blog/new-beginnings/</link>
+        </image>
+          
       <description>Today, I’m diving head first into my blog. I’m just as clueless about the start as i am about the finish. But here I am hoping to share my journey with you and express myself creatively, prompted by change, displacement, fear, love, growth, freedom, happiness, adventure and an overwhelming feeling that this is what I’m meant to do….this is what I need to do, and for once it’s something just for me….</description>
     </item>
     

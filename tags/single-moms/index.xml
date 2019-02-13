@@ -9,7 +9,7 @@
     <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
     <lastBuildDate>Mon, 13 Aug 2018 06:01:01 +0000</lastBuildDate>
     
-	<atom:link href="https://tinualikor.com/tags/single-moms/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tinualikor.com/tags/single-moms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,17 @@
       <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
       
       <guid>https://tinualikor.com/blog/freedom/</guid>
+        
+        
+        <image>
+
+        
+            <url>https://tinualikor.com/blog/freedom/images/feature_hu3c1d8d539fb678a0fa65a44ce0648c8c_222210_790x0_resize_q75_box.jpg</url>
+          
+            <title>Freedom</title>
+            <link>https://tinualikor.com/blog/freedom/</link>
+        </image>
+          
       <description>Growing up without a father I always wondered what happened between my parents. In my naivety and innocence I questioned what part I had played in my father leaving before I was 3, and what I could have done to get him to stay.
  At 16 I went in search for a father who had not responded to any of my phone calls or letters. Who had never contacted me on my birthday or even when he was told I had been undergoing a series of potentially life threatening surgeries.</description>
     </item>
