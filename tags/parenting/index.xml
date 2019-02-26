@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Parenting on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/parenting/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Parenting on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/parenting/</link>
+        <description>Recent content in Parenting on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/parenting/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/parenting/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/mumgry/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
 
@@ -68,8 +77,15 @@
             <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/mum-of-two-survival-tips/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/mum-of-two-survival-tips/images/two-happy-kids_hu8bd73f293d04bbc53f400c406222be67_1908490_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/mum-of-two-survival-tips/images/two-happy-kids_hu8bd73f293d04bbc53f400c406222be67_1908490_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Now I&rsquo;ve got your attention… did you think I actually had tips…does anyone?! I remember before my daughter was born jokingly but seriously asking people with multiple kids for tips on how to cope with two kids….no one responded. At first I thought, that&rsquo;s just rude really…a girl just needs some advice, and now I realise that everyone is full on blagging their way through parenthood and no one can offer any tips because some of their survival techniques are unconventional or tailor made to suit them, or they&rsquo;re simply just surviving!! Whatever your &lsquo;methods&rsquo; I salute and chest bump you with passion.  It ain&rsquo;t easy!</p>
 
@@ -128,8 +144,15 @@
             <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p><strong>“The three biggest addictions are heroin, carbs, and a stable pay cheque” according to Nassim Taleb.</strong></p>
 
@@ -197,8 +220,15 @@
             <pubDate>Mon, 14 Jan 2019 10:45:47 +0000</pubDate>
             <guid>https://tinualikor.com/blog/my-sonshine/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>This one. This brilliant, energetic, bold, adventurous, talkative, loving, mischievous boy with endless curiosity is my biggest test. He’s the child you’ll find in the sandpit after a huge downfall of rain playing snow angels in the mud. He’s the one that could find puddles in the desert and could give a puma a run for its money. The one you’ll find moving furniture to scale the table, or pulling the blender out of the cupboard to see how it works, or trying to hang from the window ledge so he can see the bus. He’s the one that can climb a mountain and still not tire.</p>
 
@@ -232,8 +262,15 @@
             <pubDate>Mon, 07 Jan 2019 05:53:31 +0000</pubDate>
             <guid>https://tinualikor.com/blog/absolutely-fabulous/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/absolutely-fabulous/images/babies_hu9254ecaebb10959bdf27619441dc4657_438742_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/absolutely-fabulous/images/babies_hu9254ecaebb10959bdf27619441dc4657_438742_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I saw a post the other day that made me laugh…</p>
 
@@ -279,8 +316,15 @@
             <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
             <guid>https://tinualikor.com/blog/adulting/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Last year I became a member of a club that no one wants to talk about. A club in which membership is one of the most painful experiences most will face in their lifetime and all are pretty much powerless to avoid. We found out we were expecting a baby in December 2017, excited and full of hope and expectation we celebrated.</p>
 
@@ -362,8 +406,15 @@
             <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?</p>
 
@@ -390,8 +441,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Sat, 04 Aug 2018 09:32:43 +0000</pubDate>
             <guid>https://tinualikor.com/blog/planned-boob-strikes-are-ok/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/planned-boob-strikes-are-ok/images/feature_hu9975dff1fa10e7614cba043485ce311b_267554_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/planned-boob-strikes-are-ok/images/feature_hu9975dff1fa10e7614cba043485ce311b_267554_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Emergency ones are not! In other words, choosing not to breastfeed is ok. Being forced to stop is not!</p>
 
@@ -433,8 +491,15 @@ I spent days and nights in pain as he fed. Reciting the words of my Milk Nurse i
             <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
             <guid>https://tinualikor.com/blog/make-me-a-priority/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/make-me-a-priority/images/feature_hu275acd3f4b5175c7aad91a0d8cf92ccb_183840_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/make-me-a-priority/images/feature_hu275acd3f4b5175c7aad91a0d8cf92ccb_183840_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I’m wearing sandals with ashy feet, an unironed t-shirt with a food stain or four, stretchy hareem pants and a multi coloured headscarf wrapped around sprouting doo doo plaits….and yes I left my house looking like this. Without even a second thought. Without even considering that I may be SEEN by someone who’s not partially sighted AND colourblind. And yes I still continued, offending my former self and every self confessed diva who looks upon me either with sympathy, disgust or that knowing smile from a fellow mum who’s also lost her mojo!!!</p>
 

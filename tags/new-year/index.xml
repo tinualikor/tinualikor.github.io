@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>New Year on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/new-year/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>New Year on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/new-year/</link>
+        <description>Recent content in New Year on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/new-year/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 31 Dec 2018 06:43:31 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 31 Dec 2018 06:43:31 +0000</pubDate>
             <guid>https://tinualikor.com/blog/be-the-change-you-want-to-see/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/be-the-change-you-want-to-see/images/olivia_dress_huabea8a00064a6ed828fbd5dd5f6c4da6_893215_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/be-the-change-you-want-to-see/images/olivia_dress_huabea8a00064a6ed828fbd5dd5f6c4da6_893215_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I gave birth to my daughter not so long ago…and my life changed. All of a sudden I feel the need to be the woman my daughter will respect and look up to. A woman of integrity and good standing. A woman she’d be proud to call her mum. I didn’t quite feel the same when I had my son. Yes, I felt the basic maternal pull of wanting to be a good role model and parent, and keep him happy and create a nurturing loving environment for him. But this awareness of my daughter, a woman in the making, in a world where we have fought for equality tirelessly and still argue over the gender pay gap and general sexism, I fear that I have brought her into a world that won’t give her the chance she deserves. But I want to teach her to take what she deserves and throw away the notion that you get what you’re given and to wait politely for your turn.</p>
 

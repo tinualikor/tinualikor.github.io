@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Fear of Failure on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/fear-of-failure/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Fear of Failure on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/fear-of-failure/</link>
+        <description>Recent content in Fear of Failure on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/fear-of-failure/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 03 Sep 2018 06:01:00 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/fear-of-failure/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?</p>
 

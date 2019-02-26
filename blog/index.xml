@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Blogs on Tinu Alikor</title>
-    <link>https://tinualikor.com/blog/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Blogs on Tinu Alikor</title>
+        <link>https://tinualikor.com/blog/</link>
+        <description>Recent content in Blogs on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
         <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/blog/" rel="self" type="application/rss+xml" />
-
+        
+            <atom:link href="https://tinualikor.com/blog/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/its-ok-not-to-be-ok/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/its-ok-not-to-be-ok/images/joshua_alone_bath_hu2579916eee37f6a01e86a0a116d41ca4_1661153_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/its-ok-not-to-be-ok/images/joshua_alone_bath_hu2579916eee37f6a01e86a0a116d41ca4_1661153_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p><strong>Hey how are you?</strong></p>
 
@@ -74,8 +83,15 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/mumgry/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
 
@@ -125,8 +141,15 @@
             <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<figure>
     <img src="/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg"
@@ -180,8 +203,15 @@
             <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/get-lippy-2019/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/get-lippy-2019/images/tinu-alikor-lippy-pout_huac9749c397c0ad2fd8521412fe21b4f3_250809_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/get-lippy-2019/images/tinu-alikor-lippy-pout_huac9749c397c0ad2fd8521412fe21b4f3_250809_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I&rsquo;m not great at following trends! I&rsquo;d like to think I&rsquo;m individual and try not to get swept away with fads and to be honest I&rsquo;m about as &lsquo;on trend&rsquo; as John McCririck or a stale Jaffa cake. Now I&rsquo;m 35 I care less what people think, I wear what I like , rarely wear make up and generally enjoying the not giving a damn phase. Spending time with my family, sharing, loving, connecting rather than succumbing to the narcism that is gripping the world. I do however love to get dressed up when I have the opportunity and in remembrance of my party days, dancing on bars, crowd surfing (I never managed to pull that off successfully) falling into taxis, falling out of ubers and generally making magical hungover memories I&rsquo;d like to master something I&rsquo;ve never got the hang of. Lippy!! </p>
 
@@ -215,8 +245,15 @@
             <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/mum-of-two-survival-tips/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/mum-of-two-survival-tips/images/two-happy-kids_hu8bd73f293d04bbc53f400c406222be67_1908490_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/mum-of-two-survival-tips/images/two-happy-kids_hu8bd73f293d04bbc53f400c406222be67_1908490_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Now I&rsquo;ve got your attention… did you think I actually had tips…does anyone?! I remember before my daughter was born jokingly but seriously asking people with multiple kids for tips on how to cope with two kids….no one responded. At first I thought, that&rsquo;s just rude really…a girl just needs some advice, and now I realise that everyone is full on blagging their way through parenthood and no one can offer any tips because some of their survival techniques are unconventional or tailor made to suit them, or they&rsquo;re simply just surviving!! Whatever your &lsquo;methods&rsquo; I salute and chest bump you with passion.  It ain&rsquo;t easy!</p>
 
@@ -275,8 +312,15 @@
             <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/ten-ways-to-improve-confidence/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[
 
@@ -366,8 +410,15 @@
             <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p><strong>“The three biggest addictions are heroin, carbs, and a stable pay cheque” according to Nassim Taleb.</strong></p>
 
@@ -435,8 +486,15 @@
             <pubDate>Mon, 14 Jan 2019 10:45:47 +0000</pubDate>
             <guid>https://tinualikor.com/blog/my-sonshine/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>This one. This brilliant, energetic, bold, adventurous, talkative, loving, mischievous boy with endless curiosity is my biggest test. He’s the child you’ll find in the sandpit after a huge downfall of rain playing snow angels in the mud. He’s the one that could find puddles in the desert and could give a puma a run for its money. The one you’ll find moving furniture to scale the table, or pulling the blender out of the cupboard to see how it works, or trying to hang from the window ledge so he can see the bus. He’s the one that can climb a mountain and still not tire.</p>
 
@@ -470,8 +528,15 @@
             <pubDate>Mon, 07 Jan 2019 05:53:31 +0000</pubDate>
             <guid>https://tinualikor.com/blog/absolutely-fabulous/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/absolutely-fabulous/images/babies_hu9254ecaebb10959bdf27619441dc4657_438742_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/absolutely-fabulous/images/babies_hu9254ecaebb10959bdf27619441dc4657_438742_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I saw a post the other day that made me laugh…</p>
 
@@ -517,8 +582,15 @@
             <pubDate>Mon, 31 Dec 2018 06:43:31 +0000</pubDate>
             <guid>https://tinualikor.com/blog/be-the-change-you-want-to-see/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/be-the-change-you-want-to-see/images/olivia_dress_huabea8a00064a6ed828fbd5dd5f6c4da6_893215_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/be-the-change-you-want-to-see/images/olivia_dress_huabea8a00064a6ed828fbd5dd5f6c4da6_893215_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I gave birth to my daughter not so long ago…and my life changed. All of a sudden I feel the need to be the woman my daughter will respect and look up to. A woman of integrity and good standing. A woman she’d be proud to call her mum. I didn’t quite feel the same when I had my son. Yes, I felt the basic maternal pull of wanting to be a good role model and parent, and keep him happy and create a nurturing loving environment for him. But this awareness of my daughter, a woman in the making, in a world where we have fought for equality tirelessly and still argue over the gender pay gap and general sexism, I fear that I have brought her into a world that won’t give her the chance she deserves. But I want to teach her to take what she deserves and throw away the notion that you get what you’re given and to wait politely for your turn.</p>
 
@@ -558,8 +630,15 @@
             <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
             <guid>https://tinualikor.com/blog/adulting/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Last year I became a member of a club that no one wants to talk about. A club in which membership is one of the most painful experiences most will face in their lifetime and all are pretty much powerless to avoid. We found out we were expecting a baby in December 2017, excited and full of hope and expectation we celebrated.</p>
 
@@ -641,8 +720,15 @@
             <pubDate>Mon, 03 Dec 2018 11:42:31 +0000</pubDate>
             <guid>https://tinualikor.com/blog/i-do/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/i-do/images/feature_hu37a066ceaef65215736dc63427c4303c_1755211_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/i-do/images/feature_hu37a066ceaef65215736dc63427c4303c_1755211_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I thought I’d introduce my other half properly as I’m sure he’ll be featuring in some of my blogs and it’s only polite to give you a brief low down on the man that is the pepper in my stew, custard on my crumble, my Mr Big.</p>
 
@@ -730,8 +816,15 @@
             <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
             <guid>https://tinualikor.com/blog/too-much-choice/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/too-much-choice/images/feature_huf3d7d8729afc8d08aa5a2d237dcd9a56_2987805_790x0_resize_box_2.png</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/too-much-choice/images/feature_huf3d7d8729afc8d08aa5a2d237dcd9a56_2987805_790x0_resize_box_2.png" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Are we the generation that just have too many options??</p>
 
@@ -759,8 +852,15 @@
             <pubDate>Mon, 10 Sep 2018 07:51:32 +0000</pubDate>
             <guid>https://tinualikor.com/blog/dreams-dont-expire/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/dreams-dont-expire/images/feature_hud963163ef20da0887dddfc3ae1a095c2_492555_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/dreams-dont-expire/images/feature_hud963163ef20da0887dddfc3ae1a095c2_492555_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>When I was 8 if you had asked me what I want to be when I grow up my answers were as colourful as my prized Care Bear lunch box…pilot, lawyer, doctor, painter, architect, ballerina, astronaut, UN leader, journalist, news reader, butcher, baker, candlestick maker…and I truly believed I could be any one of those on any given day, and perhaps moonlight in one I was less keen on in the evenings! Cute? Ambitious much?! Or even perhaps ridiculous? Like most children I was a dreamer, with boundless priceless possibilities in my mind. Innocent desire that had no limitations. That had no concept of can’t, no glass ceilings, or iron doors, or gender pay gaps or concept of discrimination, or insecurities. Just dreams. Dreams that I loved to picture, that gave me drive, motivated me to do my homework, gave me a goal, a purpose and a passion.</p>
 
@@ -788,8 +888,15 @@
             <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?</p>
 
@@ -816,8 +923,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Mon, 27 Aug 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/love-yourself/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/love-yourself/images/feature_hu8bc1fff2af24458dba8e5250014f41bc_145314_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/love-yourself/images/feature_hu8bc1fff2af24458dba8e5250014f41bc_145314_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>This blog is for everyone who contacted me in private or public about one of my previous blogs ‘ Freedom’. I was brought to tears by you reaching out to share your stories with me. I’m touched by the strength in your daily struggles and the memories that you hold on to. I’m inspired by you. Thank you for reaching out, thank you for sharing. Vulnerability is not weakness, it’s powerful. Freedom in your mind and thoughts, freedom in your choices, freedom in your movements, freedom in your memories, that’s what I strive for.</p>
 
@@ -847,8 +961,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Fri, 24 Aug 2018 06:19:21 +0000</pubDate>
             <guid>https://tinualikor.com/blog/were-all-equal-in-the-sky/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/were-all-equal-in-the-sky/images/feature_hu9ac72fe668a507003fd0f28db21e8729_1160980_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/were-all-equal-in-the-sky/images/feature_hu9ac72fe668a507003fd0f28db21e8729_1160980_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>So my most recent flight from Switzerland to London has taken me awhile to recover from. I am a seasoned traveller who isn’t easily flustered. I plan my route, prepare my luggage and get going! Saying this being a black female, with mobility issues travelling with a toddler whilst pregnant puts a slightly different spin on the situation and its this I’d like to share.</p>
 
@@ -904,8 +1025,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/blog/freedom/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/freedom/images/feature_hu3c1d8d539fb678a0fa65a44ce0648c8c_222210_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/freedom/images/feature_hu3c1d8d539fb678a0fa65a44ce0648c8c_222210_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Growing up without a father I always wondered what happened between my parents. In my naivety and innocence I questioned what part I had played in my father leaving before I was 3, and what I could have done to get him to stay.</p>
 
@@ -965,8 +1093,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/blog/say-yes/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/say-yes/images/feature_hu2dbd46e9711a6edef913096b4e75ada8_231367_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/say-yes/images/feature_hu2dbd46e9711a6edef913096b4e75ada8_231367_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>We moved to Switzerland just over a year ago. It’s been a roller coaster of adjustments, tested the strength of our marriage and my love for fried chicken, or should I say the absence of good chicken. We had discussed moving abroad a little, considered where we’d like to try and my husband joyfully reminisced about a previous experience he had in Switzerland a few years back. I had never been, or heard much about it. It wasn’t on my bucket list of countries to visit, I’m not a big chocolate fan and my interest in cheese is variable. But move here we did, to the beauty that is Zurich, following some research and a passion to try something new, live unapologetically and say yes more!</p>
 
@@ -1024,8 +1159,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Mon, 06 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/blog/new-beginnings/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/new-beginnings/images/feature_hudd0083435af24690f53923ecf868f4ec_208191_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/new-beginnings/images/feature_hudd0083435af24690f53923ecf868f4ec_208191_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<figure>
     <img src="/blog/new-beginnings/images/road_hill_hud4ccc1cfa4451ecf4d15584e0f0ad3ba_556427_790x0_resize_q75_box.jpg"
@@ -1103,8 +1245,15 @@ Have you ever been so afraid at failing at something you decided not to try at a
             <pubDate>Sat, 04 Aug 2018 09:32:43 +0000</pubDate>
             <guid>https://tinualikor.com/blog/planned-boob-strikes-are-ok/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/planned-boob-strikes-are-ok/images/feature_hu9975dff1fa10e7614cba043485ce311b_267554_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/planned-boob-strikes-are-ok/images/feature_hu9975dff1fa10e7614cba043485ce311b_267554_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Emergency ones are not! In other words, choosing not to breastfeed is ok. Being forced to stop is not!</p>
 
@@ -1146,8 +1295,15 @@ I spent days and nights in pain as he fed. Reciting the words of my Milk Nurse i
             <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
             <guid>https://tinualikor.com/blog/make-me-a-priority/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/make-me-a-priority/images/feature_hu275acd3f4b5175c7aad91a0d8cf92ccb_183840_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/make-me-a-priority/images/feature_hu275acd3f4b5175c7aad91a0d8cf92ccb_183840_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I’m wearing sandals with ashy feet, an unironed t-shirt with a food stain or four, stretchy hareem pants and a multi coloured headscarf wrapped around sprouting doo doo plaits….and yes I left my house looking like this. Without even a second thought. Without even considering that I may be SEEN by someone who’s not partially sighted AND colourblind. And yes I still continued, offending my former self and every self confessed diva who looks upon me either with sympathy, disgust or that knowing smile from a fellow mum who’s also lost her mojo!!!</p>
 

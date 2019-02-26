@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Relationships on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/relationships/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Relationships on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/relationships/</link>
+        <description>Recent content in Relationships on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/relationships/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/relationships/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/mumgry/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
 
@@ -68,8 +77,15 @@
             <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<figure>
     <img src="/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg"
@@ -123,8 +139,15 @@
             <pubDate>Mon, 03 Dec 2018 11:42:31 +0000</pubDate>
             <guid>https://tinualikor.com/blog/i-do/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/i-do/images/feature_hu37a066ceaef65215736dc63427c4303c_1755211_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/i-do/images/feature_hu37a066ceaef65215736dc63427c4303c_1755211_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>I thought I’d introduce my other half properly as I’m sure he’ll be featuring in some of my blogs and it’s only polite to give you a brief low down on the man that is the pepper in my stew, custard on my crumble, my Mr Big.</p>
 

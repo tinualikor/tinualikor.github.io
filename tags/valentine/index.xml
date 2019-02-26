@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Valentine on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/valentine/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Valentine on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/valentine/</link>
+        <description>Recent content in Valentine on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/valentine/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/valentine/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<figure>
     <img src="/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg"

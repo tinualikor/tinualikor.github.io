@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Hopes and Dreams on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/hopes-and-dreams/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Hopes and Dreams on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/hopes-and-dreams/</link>
+        <description>Recent content in Hopes and Dreams on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/hopes-and-dreams/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 10 Sep 2018 07:51:32 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/hopes-and-dreams/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 10 Sep 2018 07:51:32 +0000</pubDate>
             <guid>https://tinualikor.com/blog/dreams-dont-expire/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/dreams-dont-expire/images/feature_hud963163ef20da0887dddfc3ae1a095c2_492555_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/dreams-dont-expire/images/feature_hud963163ef20da0887dddfc3ae1a095c2_492555_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>When I was 8 if you had asked me what I want to be when I grow up my answers were as colourful as my prized Care Bear lunch box…pilot, lawyer, doctor, painter, architect, ballerina, astronaut, UN leader, journalist, news reader, butcher, baker, candlestick maker…and I truly believed I could be any one of those on any given day, and perhaps moonlight in one I was less keen on in the evenings! Cute? Ambitious much?! Or even perhaps ridiculous? Like most children I was a dreamer, with boundless priceless possibilities in my mind. Innocent desire that had no limitations. That had no concept of can’t, no glass ceilings, or iron doors, or gender pay gaps or concept of discrimination, or insecurities. Just dreams. Dreams that I loved to picture, that gave me drive, motivated me to do my homework, gave me a goal, a purpose and a passion.</p>
 

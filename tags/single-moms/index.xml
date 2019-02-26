@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Single Moms on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/single-moms/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Single Moms on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/single-moms/</link>
+        <description>Recent content in Single Moms on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/single-moms/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 13 Aug 2018 06:01:01 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/single-moms/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/blog/freedom/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/freedom/images/feature_hu3c1d8d539fb678a0fa65a44ce0648c8c_222210_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/freedom/images/feature_hu3c1d8d539fb678a0fa65a44ce0648c8c_222210_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Growing up without a father I always wondered what happened between my parents. In my naivety and innocence I questioned what part I had played in my father leaving before I was 3, and what I could have done to get him to stay.</p>
 

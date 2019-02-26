@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Tags on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Tags on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/</link>
+        <description>Recent content in Tags on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 13 Aug 2018 06:01:01 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,11 @@
             <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/abandonment/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -31,8 +36,11 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/anger/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -45,8 +53,11 @@
             <pubDate>Sat, 04 Aug 2018 09:32:43 +0000</pubDate>
             <guid>https://tinualikor.com/tags/baby/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -59,8 +70,11 @@
             <pubDate>Mon, 06 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/blogger/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -73,8 +87,11 @@
             <pubDate>Sat, 04 Aug 2018 09:32:43 +0000</pubDate>
             <guid>https://tinualikor.com/tags/breastfeeding/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -87,8 +104,11 @@
             <pubDate>Fri, 24 Aug 2018 06:19:21 +0000</pubDate>
             <guid>https://tinualikor.com/tags/british-airways/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -101,8 +121,11 @@
             <pubDate>Mon, 27 Aug 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/bullying/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -115,8 +138,11 @@
             <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/children/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -129,8 +155,11 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/communication/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -143,8 +172,11 @@
             <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/compromise/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -157,8 +189,11 @@
             <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/confidence/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -171,8 +206,11 @@
             <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/decision-making/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -185,8 +223,11 @@
             <pubDate>Fri, 24 Aug 2018 06:19:21 +0000</pubDate>
             <guid>https://tinualikor.com/tags/disability/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -199,8 +240,11 @@
             <pubDate>Fri, 24 Aug 2018 06:19:21 +0000</pubDate>
             <guid>https://tinualikor.com/tags/discrimination/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -213,8 +257,11 @@
             <pubDate>Mon, 10 Sep 2018 07:51:32 +0000</pubDate>
             <guid>https://tinualikor.com/tags/dreams/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -227,8 +274,11 @@
             <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/failure/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -241,8 +291,11 @@
             <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/family/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -255,8 +308,11 @@
             <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/fear-of-failure/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -269,8 +325,11 @@
             <pubDate>Mon, 31 Dec 2018 06:43:31 +0000</pubDate>
             <guid>https://tinualikor.com/tags/feminism/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -283,8 +342,11 @@
             <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
             <guid>https://tinualikor.com/tags/fertility/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -297,8 +359,11 @@
             <pubDate>Mon, 03 Dec 2018 11:42:31 +0000</pubDate>
             <guid>https://tinualikor.com/tags/friendship/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -311,8 +376,11 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/healing/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -325,8 +393,11 @@
             <pubDate>Mon, 10 Sep 2018 07:51:32 +0000</pubDate>
             <guid>https://tinualikor.com/tags/hopes-and-dreams/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -339,8 +410,11 @@
             <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/individuality/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -353,8 +427,11 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/isolation/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -367,8 +444,11 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/journey/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -381,8 +461,11 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/life/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -395,8 +478,11 @@
             <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/life-lessons/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -409,8 +495,11 @@
             <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
             <guid>https://tinualikor.com/tags/life-motherhood/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -423,8 +512,11 @@
             <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/lipstick/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -437,8 +529,11 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/love/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -451,8 +546,11 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/marriage/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -465,8 +563,11 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/mental-health/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -479,8 +580,11 @@
             <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
             <guid>https://tinualikor.com/tags/miscarriage/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -493,8 +597,11 @@
             <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/motherhood/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -507,8 +614,11 @@
             <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/motivation/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -521,8 +631,11 @@
             <pubDate>Mon, 31 Dec 2018 06:43:31 +0000</pubDate>
             <guid>https://tinualikor.com/tags/new-year/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -535,8 +648,11 @@
             <pubDate>Mon, 31 Dec 2018 06:43:31 +0000</pubDate>
             <guid>https://tinualikor.com/tags/new-year-resolution/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -549,8 +665,11 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/parenting/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -563,8 +682,11 @@
             <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
             <guid>https://tinualikor.com/tags/parenting-advice/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -577,8 +699,11 @@
             <pubDate>Mon, 07 Jan 2019 05:53:31 +0000</pubDate>
             <guid>https://tinualikor.com/tags/podcasting/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -591,8 +716,11 @@
             <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/poetry/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -605,8 +733,11 @@
             <pubDate>Mon, 27 Aug 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/positivity/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -619,8 +750,11 @@
             <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
             <guid>https://tinualikor.com/tags/pregnancy/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -633,8 +767,11 @@
             <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
             <guid>https://tinualikor.com/tags/priorities/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -647,8 +784,11 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/relationships/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -661,8 +801,11 @@
             <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/relationships-love-dating/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -675,8 +818,11 @@
             <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/risk-taking/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -689,8 +835,11 @@
             <pubDate>Mon, 27 Aug 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/self-healing/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -703,8 +852,11 @@
             <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/self-improvement/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -717,8 +869,11 @@
             <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/self-love/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -731,8 +886,11 @@
             <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/single-moms/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -745,8 +903,11 @@
             <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/success/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -759,8 +920,11 @@
             <pubDate>Fri, 24 Aug 2018 06:19:21 +0000</pubDate>
             <guid>https://tinualikor.com/tags/travel/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -773,8 +937,11 @@
             <pubDate>Mon, 13 Aug 2018 06:01:01 +0000</pubDate>
             <guid>https://tinualikor.com/tags/travelling/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -787,8 +954,11 @@
             <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/tags/valentine/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>
@@ -801,8 +971,11 @@
             <pubDate>Mon, 07 Jan 2019 05:53:31 +0000</pubDate>
             <guid>https://tinualikor.com/tags/women-in-tech/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[]]&gt;</content:encoded>
             </item>

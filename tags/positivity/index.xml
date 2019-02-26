@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Positivity on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/positivity/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Positivity on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/positivity/</link>
+        <description>Recent content in Positivity on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/positivity/" rel="self" type="application/rss+xml" />
-
+        <lastBuildDate>Mon, 27 Aug 2018 06:01:00 +0000</lastBuildDate>
+        
+            <atom:link href="https://tinualikor.com/tags/positivity/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Mon, 27 Aug 2018 06:01:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/love-yourself/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/love-yourself/images/feature_hu8bc1fff2af24458dba8e5250014f41bc_145314_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/love-yourself/images/feature_hu8bc1fff2af24458dba8e5250014f41bc_145314_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>This blog is for everyone who contacted me in private or public about one of my previous blogs ‘ Freedom’. I was brought to tears by you reaching out to share your stories with me. I’m touched by the strength in your daily struggles and the memories that you hold on to. I’m inspired by you. Thank you for reaching out, thank you for sharing. Vulnerability is not weakness, it’s powerful. Freedom in your mind and thoughts, freedom in your choices, freedom in your movements, freedom in your memories, that’s what I strive for.</p>
 

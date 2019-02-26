@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-    <title>Communication on Tinu Alikor</title>
-    <link>https://tinualikor.com/tags/communication/</link>
-        <language>en-EN</language>
-        <description>Description of your feed</description>
+        <title>Communication on Tinu Alikor</title>
+        <link>https://tinualikor.com/tags/communication/</link>
+        <description>Recent content in Communication on Tinu Alikor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
         <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
         <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://tinualikor.com/tags/communication/" rel="self" type="application/rss+xml" />
-
+        
+            <atom:link href="https://tinualikor.com/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+        
         
         
             <item>
@@ -17,8 +19,15 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/its-ok-not-to-be-ok/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/its-ok-not-to-be-ok/images/joshua_alone_bath_hu2579916eee37f6a01e86a0a116d41ca4_1661153_790x0_resize_q75_box.jpg</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/its-ok-not-to-be-ok/images/joshua_alone_bath_hu2579916eee37f6a01e86a0a116d41ca4_1661153_790x0_resize_q75_box.jpg" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p><strong>Hey how are you?</strong></p>
 
@@ -74,8 +83,15 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
             <guid>https://tinualikor.com/blog/mumgry/</guid>
             <dc:creator></dc:creator>
-            <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://www.yoursite.com/img/" />
+                    
+        
+        
+            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
+                        <media:content type="image/jpeg" medium="image" width="790" 
+                  url="https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG" />
+          
+         
+
             <description>&lt;![CDATA[]]&gt;</description>
             <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
 
