@@ -1,37 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Anger on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/anger/</link>
-    <description>Recent content in Anger on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/anger/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Mumgry</title>
-      <link>https://tinualikor.com/blog/mumgry/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/mumgry/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/anger/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
-          
+        
+            <item>
             <title>Mumgry</title>
             <link>https://tinualikor.com/blog/mumgry/</link>
-        </image>
-          
-      <description>Have you heard of the term Hangry? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!
-Well I’ve felt like that often, so I’m known for carrying around snacks and planning my life around where the nearest eatery is.</description>
-    </item>
+            <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/mumgry/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
+
+<p>Well I’ve felt like that often, so I’m known for carrying around snacks and planning my life around where the nearest eatery is. I can pretty much describe anywhere I’ve been in the world in relation to good food. Sorry not sorry. I hate being hungry and am blessed to live comfortably enough to never have to experience this feeling unless I’m caught out somewhere remote or just lose track of time and there isn’t a drive through in sight. I’m a self confessed hangry person. Like I need food and am just distracted by it’s absence to the point of vexness, so I just don’t go there and prepare like a girl scout as it’s not a pretty site!</p>
+
+<p>I’d like to think I’m pretty level headed and don’t have any known conditions that affect my ability to respond proportionately to situations. I’m rational, logical, don’t suffer fools much but I’m generally patient…ish. … or at least that’s what I thought! Until I got married and had babies!</p>
+
+<figure>
+    <img src="/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG"
+    srcset="
     
-  </channel>
+    /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_395x0_resize_q75_box.JPG 395w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG 790w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_1580x0_resize_q75_box.JPG 1580w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_2370x0_resize_q75_box.JPG 2370w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_3160x0_resize_q75_box.JPG 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Have you heard of the saying, ‘hell hath no fury like a woman scorned’? I’m not so sure it’s comparable to an angry mum! Now I’m coining a new word. <strong>Mumgry!</strong> I can’t be the only one to have felt this silent rage creeping up when your partner is snoring whilst your exhausted body struggles to stay awake and feed the baby? Or when he forgets to load the dishwasher after you cooked dinner, did the laundry, hoovered and painted the Sistine chapel, and says he’ll do it in the morning. It’s that uncontrollable urge to throw a heavy implement at someone you love because for that split second you are seething and just wish they understood the pressure you feel, the exhaustion you’re experiencing and the complete and utter overwhelm that is engulfing you. It’s a time when you feel like your brain has gone to mush, when you can’t remember if you put diesel or petrol in the car. When you breastfeed on demand in a taxi and rush out of the taxi with your boob out until you get home, and no one tells you!</p>
+
+<p>I don’t know the statistics but I’m pretty confident that one of the biggest factors resulting in relationship breakdown is the arrival of children. It changes the dynamics of your partnership. It really separates the men from the boys, and the women from the girls. It exposes your ride or die for the sweet talk he’s been spinning for years. He’s not ride or die, he’s let me sleep or I’ll die! The realisation that this sexy man whom you gave up your uterus for, is now the object of your dissatisfaction and in fact the focus of your vehemence is a little unnerving and can swerve out of nowhere. Even the most laid back of couples can have their mumgry moments. It’s usually a completely understandable response to something that just pushes you over the edge, but because of the new baby and the sleep deprivation people think you’re losing it or are in some hormonal abyss. Hormones may have a huge part to play in it, but it’s also just a whole lot of change and a whole lot of exhaustion, mixed in with expectations, trying to maintain a somewhat functioning household and the fact that sometimes people are just sleep walking into family life and not pulling their weight.</p>
+
+<p>Women tend to be the primary care givers, regardless of the life they had before children, and even those who made more money than their partners unfortunately can’t hand over child bearing duties, and alot of the time the gender stereotypes and society’s perception of the ‘norm’ results in women staying at home, men getting insignificant time off for paternity leave and women left holding the baby.</p>
+
+<p>Somehow we’ve allowed society to tell us that we’re better at nurturing and that essentially gets men off the hook. Maternal instinct doesn’t come naturally for everyone. Most of us have to work at being mums. We learn on the job and it’s tough even for Mary Poppins understudies. But we do our best, and always show up, which is half the battle.</p>
+
+<p>But how do we keep mumgry under control? Just like my detailed planning required to avoid hangry moments, I too need to work on the cues for mumgry ones. And share the trigger points with my partner so he knows what the deal is. So whether it’s chores, finances, sex, socialising, or you’ve simply got beef over hogging the remote control, it’s all fixable, if you both want it to be fixed. Children are an amazing gift that come with unfettered joy and challenges, remind yourself of the love it took to have them and put maintaining that love high on your to do list, above the laundry!</p>
+
+<p>Changing your focus is definitely key. Being comfortable is great, but don’t be complacent. Don’t take your partner for granted, don’t assume anything. Make time for each other. Everyone wants to be heard, understood and loved. Communicate! Write a list of weekly chores and divvy them up. Put it somewhere you can both see. If you both write it the onus on whose responsibility it is to ensure they’re completed changes. It’s our responsibility. If we fail, we fail together, and we can ease the mental load on women just a little bit.</p>
+
+<p>As I write this post, breastfeeding, coughing and full of cold and trying to eat my breakfast. I say that the cough I have is causing me some pain in my stomach. My husbands response is, ‘great babes, those are the muscles where you’re supposed to have abs, you’re building your pack back!’ I can just feel another mumgry moment coming on, so I’m about to play some classical tunes and finish this up! Wishing you light and love and laughter and no police cautions.</p>
+
+<p>I’d love to hear your mumgry moments and if you’ve got any coping mechanisms please share! Thanks for reading! Please like, share and <a href="https://www.instagram.com/tinualikor/">follow me</a>.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

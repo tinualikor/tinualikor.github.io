@@ -1,36 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Valentine on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/valentine/</link>
-    <description>Recent content in Valentine on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/valentine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Happy Valentines Day</title>
-      <link>https://tinualikor.com/blog/happy-valentines-day/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/valentine/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg</url>
-          
+        
+            <item>
             <title>Happy Valentines Day</title>
             <link>https://tinualikor.com/blog/happy-valentines-day/</link>
-        </image>
-          
-      <description>Yesterday I found out the hard way that the Swiss don’t do Valentines Day. I walked around a local shopping centre with the kids (first time in months) hoping to purchase a card, and not a fluffy teddy or heart shaped balloon in sight. Strange? Refreshing? I’m not entirely sure how I feel about that. I don’t care enough about Valentines Day to really have an opinion. Maybe that in itself speaks volumes….</description>
-    </item>
+            <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<figure>
+    <img src="/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg"
+    srcset="
     
-  </channel>
+    /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_395x0_resize_q75_box.jpg 395w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg 790w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_1580x0_resize_q75_box.jpg 1580w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_2370x0_resize_q75_box.jpg 2370w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Yesterday I found out the hard way that the Swiss don’t do Valentines Day.  I walked around a local shopping centre with the kids (first time in months) hoping to purchase a card, and not a fluffy teddy or heart shaped balloon in sight.  Strange? Refreshing? I’m not entirely sure how I feel about that. I don’t care enough about Valentines Day to really have an opinion.  Maybe that in itself speaks volumes…. Despite my nonchalance, I trudged through the annoyingly brightly lit shopping mall like someone who hasn’t seen daylight for some substantial time.  A journey that should’ve taken me a maximum of 15 minutes ended up being an afternoon of stopping, eating, playing with random chairs, jumping off said random chairs, eating some more, nappy changes, breastfeeding and a small but unwelcome tantrum about Brexit… actually it was about nothing obviously.</p>
+
+<p>I eventually found a semi appropriate card.  Something about love on the front, in English, no text inside. Bish bash bosh!  Thanks, that’ll do!  To be honest, I wasn’t going to buy a card this year, I’ve been feeling like I’ve been dragged through a hedge backwards for some time and the exhaustion and relentless schedule is starting to take it’s toll.  Do you ever feel like you’re sleep walking?  Fire fighting, satisfying a conveyor belt of demands and it just doesn’t stop.  I’ve been shouty, impatient mum for a few days now.  Zero patience with a toddler is like putting washing up liquid in a car engine.  So my frame of mind at present has no room for love hearts and cuddly toys.  A priceless present for me would be an uninterrupted bath with my favourite scented candles…. somehow I’ll make this happen!</p>
+
+<p>Love is love even when he doesn’t take the bins out, when he sleeps through your sleepless nights with the baby and is still apparently knackered.  Love is pushing through the grey matter that fogs your mind and relationship  when the mental load is taking its toll and for once you just wish you didn’t feel like you do it all in military style, forward thinking, back thinking, planning, executing, packing, cooking, cleaning, feeding. Love is sharing the load, being equally knackered, dribbling with exhaustion together in harmony. We love every day, silently over the weetabix,  patiently during laundry days, loudly in the supermarket.</p>
+
+<figure>
+    <img src="/blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_395x0_resize_q75_box.jpg 395w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_790x0_resize_q75_box.jpg 790w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_1580x0_resize_q75_box.jpg 1580w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_2370x0_resize_q75_box.jpg 2370w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Whatever your situation, love begins with you. Love you, appreciate you.  Buy yourself flowers, get a new frock, get some whipped cream and marshmallows on that hot chocolate, crack open a bottle of red, enjoy a yummy plate, binge on a box set, have a bubble bath, book a mani pedi, go for a nice walk, do whatever makes your heart sing and your mind at peace.  You are loved, you are cherished, you are worthy of love. Whatever you do today, show some love, appreciate the one you take for granted daily, and most importantly, do something you love and love yourself.</p>
+
+<p>Please add a comment below, like, share and follow me on instagram, twitter and facebook.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Hopes and Dreams on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/hopes-and-dreams/</link>
-    <description>Recent content in Hopes and Dreams on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Mon, 10 Sep 2018 07:51:32 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/hopes-and-dreams/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Dreams Don’t Expire</title>
-      <link>https://tinualikor.com/blog/dreams-dont-expire/</link>
-      <pubDate>Mon, 10 Sep 2018 07:51:32 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/dreams-dont-expire/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/hopes-and-dreams/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/dreams-dont-expire/images/feature_hud963163ef20da0887dddfc3ae1a095c2_492555_790x0_resize_q75_box.jpg</url>
-          
+        
+            <item>
             <title>Dreams Don’t Expire</title>
             <link>https://tinualikor.com/blog/dreams-dont-expire/</link>
-        </image>
-          
-      <description>When I was 8 if you had asked me what I want to be when I grow up my answers were as colourful as my prized Care Bear lunch box…pilot, lawyer, doctor, painter, architect, ballerina, astronaut, UN leader, journalist, news reader, butcher, baker, candlestick maker…and I truly believed I could be any one of those on any given day, and perhaps moonlight in one I was less keen on in the evenings!</description>
-    </item>
-    
-  </channel>
+            <pubDate>Mon, 10 Sep 2018 07:51:32 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/dreams-dont-expire/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>When I was 8 if you had asked me what I want to be when I grow up my answers were as colourful as my prized Care Bear lunch box…pilot, lawyer, doctor, painter, architect, ballerina, astronaut, UN leader, journalist, news reader, butcher, baker, candlestick maker…and I truly believed I could be any one of those on any given day, and perhaps moonlight in one I was less keen on in the evenings! Cute? Ambitious much?! Or even perhaps ridiculous? Like most children I was a dreamer, with boundless priceless possibilities in my mind. Innocent desire that had no limitations. That had no concept of can’t, no glass ceilings, or iron doors, or gender pay gaps or concept of discrimination, or insecurities. Just dreams. Dreams that I loved to picture, that gave me drive, motivated me to do my homework, gave me a goal, a purpose and a passion.</p>
+
+<p>Now I’m in my 30s I’m not sure I have space for my dreams right now. Time to dream, or the energy to pursue them. But I need to make space. Space to imagine the impossible, to conjure up paths full of adventure, of hope.</p>
+
+<p>Am I the only one who’s shelved my dreams? The only one who’s decided dreaming is for kids, adults don’t dream, they get real. Life is real, and when the reality of its fabric hits you, the dreamer fairytale is squashed. What a travesty! What’s the point of living if you can’t dream? What happened to that gooey feeling when you think of all the possibilities and hopes? What happened to the energy you felt when someone asked you what you wanted to be when you grew up? Just because you didn’t make it to the Bar or aren’t a famous West End dancer, that doesn’t mean you should stop dreaming. A dream changed is not a dream lost. We can just pivot…can’t we… aim for the moon and hit the stars…aim for something…</p>
+
+<p>Why do we stop trying to fulfil our dreams? Fear of not living up to those dreams? When did dreams get old? Maybe in adulthood we rename dreams ‘goals’? Maybe it’s easier to comprehend. When did we start trying to apply the SMART criteria to dreams? Specific, measurable, achievable, results-focused, and time- bound! Don’t confine your dreams to principles. Dreams are glorious, and big and seemingly unachievable, and uplifting and scary. We need them! They keep us alive, motivated , focused and inspired.</p>
+
+<p>A friend of mine Charlotte Philby has just announced completion of one of her life’s dreams! A spy novel she’s been working on! What an achievement! What a feeling to have started and finished! To have accomplished and reached the peak of one of your wild imaginations! Awesome and inspiring!</p>
+
+<p>I’m going back to the drawing board of dreams and writing up new ones and rehashing old post-its that have been relegated to a notebook I bought in 1991. I’m bringing back dreams! They push me out of my comfort zone. Big dreams are like big knickers, we all need them even if we don’t admit it! I’m not ashamed of my big knickers, I’m not ashamed of my dreams. One day I’ll be sharing completion of my big dreams too and celebrating even the small wins with glee! If your dreams don’t scare you they’re not big enough!</p>
+
+<p>Share your dreams with those you love. Once you vocalise them they become tangible and possible. Dreams can change and evolve, but don’t crush your dreams or let others. Don’t give up.</p>
+
+<p>You don’t create your life first and then live it. You create it by living it! Not agonising over it. Try letting go of perfection today and dream! Dream because you deserve to be free to think the impossible. Because dreamers are doers. Because sometimes we’re surrounded by walls and restrictions, and dreams elevate us into a beautiful realm of possibilities. Let go of perfect and dream. I’d love to hear your dreams!</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

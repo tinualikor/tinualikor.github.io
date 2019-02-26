@@ -1,100 +1,238 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Love on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/love/</link>
-    <description>Recent content in Love on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/love/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Mumgry</title>
-      <link>https://tinualikor.com/blog/mumgry/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/mumgry/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/love/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
-          
+        
+            <item>
             <title>Mumgry</title>
             <link>https://tinualikor.com/blog/mumgry/</link>
-        </image>
-          
-      <description>Have you heard of the term Hangry? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!
-Well I’ve felt like that often, so I’m known for carrying around snacks and planning my life around where the nearest eatery is.</description>
-    </item>
-    
-    <item>
-      <title>Happy Valentines Day</title>
-      <link>https://tinualikor.com/blog/happy-valentines-day/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/mumgry/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
 
+<p>Well I’ve felt like that often, so I’m known for carrying around snacks and planning my life around where the nearest eatery is. I can pretty much describe anywhere I’ve been in the world in relation to good food. Sorry not sorry. I hate being hungry and am blessed to live comfortably enough to never have to experience this feeling unless I’m caught out somewhere remote or just lose track of time and there isn’t a drive through in sight. I’m a self confessed hangry person. Like I need food and am just distracted by it’s absence to the point of vexness, so I just don’t go there and prepare like a girl scout as it’s not a pretty site!</p>
+
+<p>I’d like to think I’m pretty level headed and don’t have any known conditions that affect my ability to respond proportionately to situations. I’m rational, logical, don’t suffer fools much but I’m generally patient…ish. … or at least that’s what I thought! Until I got married and had babies!</p>
+
+<figure>
+    <img src="/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG"
+    srcset="
+    
+    /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_395x0_resize_q75_box.JPG 395w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG 790w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_1580x0_resize_q75_box.JPG 1580w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_2370x0_resize_q75_box.JPG 2370w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_3160x0_resize_q75_box.JPG 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Have you heard of the saying, ‘hell hath no fury like a woman scorned’? I’m not so sure it’s comparable to an angry mum! Now I’m coining a new word. <strong>Mumgry!</strong> I can’t be the only one to have felt this silent rage creeping up when your partner is snoring whilst your exhausted body struggles to stay awake and feed the baby? Or when he forgets to load the dishwasher after you cooked dinner, did the laundry, hoovered and painted the Sistine chapel, and says he’ll do it in the morning. It’s that uncontrollable urge to throw a heavy implement at someone you love because for that split second you are seething and just wish they understood the pressure you feel, the exhaustion you’re experiencing and the complete and utter overwhelm that is engulfing you. It’s a time when you feel like your brain has gone to mush, when you can’t remember if you put diesel or petrol in the car. When you breastfeed on demand in a taxi and rush out of the taxi with your boob out until you get home, and no one tells you!</p>
+
+<p>I don’t know the statistics but I’m pretty confident that one of the biggest factors resulting in relationship breakdown is the arrival of children. It changes the dynamics of your partnership. It really separates the men from the boys, and the women from the girls. It exposes your ride or die for the sweet talk he’s been spinning for years. He’s not ride or die, he’s let me sleep or I’ll die! The realisation that this sexy man whom you gave up your uterus for, is now the object of your dissatisfaction and in fact the focus of your vehemence is a little unnerving and can swerve out of nowhere. Even the most laid back of couples can have their mumgry moments. It’s usually a completely understandable response to something that just pushes you over the edge, but because of the new baby and the sleep deprivation people think you’re losing it or are in some hormonal abyss. Hormones may have a huge part to play in it, but it’s also just a whole lot of change and a whole lot of exhaustion, mixed in with expectations, trying to maintain a somewhat functioning household and the fact that sometimes people are just sleep walking into family life and not pulling their weight.</p>
+
+<p>Women tend to be the primary care givers, regardless of the life they had before children, and even those who made more money than their partners unfortunately can’t hand over child bearing duties, and alot of the time the gender stereotypes and society’s perception of the ‘norm’ results in women staying at home, men getting insignificant time off for paternity leave and women left holding the baby.</p>
+
+<p>Somehow we’ve allowed society to tell us that we’re better at nurturing and that essentially gets men off the hook. Maternal instinct doesn’t come naturally for everyone. Most of us have to work at being mums. We learn on the job and it’s tough even for Mary Poppins understudies. But we do our best, and always show up, which is half the battle.</p>
+
+<p>But how do we keep mumgry under control? Just like my detailed planning required to avoid hangry moments, I too need to work on the cues for mumgry ones. And share the trigger points with my partner so he knows what the deal is. So whether it’s chores, finances, sex, socialising, or you’ve simply got beef over hogging the remote control, it’s all fixable, if you both want it to be fixed. Children are an amazing gift that come with unfettered joy and challenges, remind yourself of the love it took to have them and put maintaining that love high on your to do list, above the laundry!</p>
+
+<p>Changing your focus is definitely key. Being comfortable is great, but don’t be complacent. Don’t take your partner for granted, don’t assume anything. Make time for each other. Everyone wants to be heard, understood and loved. Communicate! Write a list of weekly chores and divvy them up. Put it somewhere you can both see. If you both write it the onus on whose responsibility it is to ensure they’re completed changes. It’s our responsibility. If we fail, we fail together, and we can ease the mental load on women just a little bit.</p>
+
+<p>As I write this post, breastfeeding, coughing and full of cold and trying to eat my breakfast. I say that the cough I have is causing me some pain in my stomach. My husbands response is, ‘great babes, those are the muscles where you’re supposed to have abs, you’re building your pack back!’ I can just feel another mumgry moment coming on, so I’m about to play some classical tunes and finish this up! Wishing you light and love and laughter and no police cautions.</p>
+
+<p>I’d love to hear your mumgry moments and if you’ve got any coping mechanisms please share! Thanks for reading! Please like, share and <a href="https://www.instagram.com/tinualikor/">follow me</a>.</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Happy Valentines Day</title>
             <link>https://tinualikor.com/blog/happy-valentines-day/</link>
-        </image>
-          
-      <description>Yesterday I found out the hard way that the Swiss don’t do Valentines Day. I walked around a local shopping centre with the kids (first time in months) hoping to purchase a card, and not a fluffy teddy or heart shaped balloon in sight. Strange? Refreshing? I’m not entirely sure how I feel about that. I don’t care enough about Valentines Day to really have an opinion. Maybe that in itself speaks volumes….</description>
-    </item>
+            <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/happy-valentines-day/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<figure>
+    <img src="/blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg"
+    srcset="
     
-    <item>
-      <title>I Do…</title>
-      <link>https://tinualikor.com/blog/i-do/</link>
-      <pubDate>Mon, 03 Dec 2018 11:42:31 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/i-do/</guid>
-        
-        
-        <image>
+    /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_395x0_resize_q75_box.jpg 395w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_790x0_resize_q75_box.jpg 790w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_1580x0_resize_q75_box.jpg 1580w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_2370x0_resize_q75_box.jpg 2370w,
+          /blog/happy-valentines-day/images/madu-and-tinu-kiss_hub0b9f5cd3ed5bba82b882751731ea36a_6015915_3160x0_resize_q75_box.jpg 3160w
 
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Yesterday I found out the hard way that the Swiss don’t do Valentines Day.  I walked around a local shopping centre with the kids (first time in months) hoping to purchase a card, and not a fluffy teddy or heart shaped balloon in sight.  Strange? Refreshing? I’m not entirely sure how I feel about that. I don’t care enough about Valentines Day to really have an opinion.  Maybe that in itself speaks volumes…. Despite my nonchalance, I trudged through the annoyingly brightly lit shopping mall like someone who hasn’t seen daylight for some substantial time.  A journey that should’ve taken me a maximum of 15 minutes ended up being an afternoon of stopping, eating, playing with random chairs, jumping off said random chairs, eating some more, nappy changes, breastfeeding and a small but unwelcome tantrum about Brexit… actually it was about nothing obviously.</p>
+
+<p>I eventually found a semi appropriate card.  Something about love on the front, in English, no text inside. Bish bash bosh!  Thanks, that’ll do!  To be honest, I wasn’t going to buy a card this year, I’ve been feeling like I’ve been dragged through a hedge backwards for some time and the exhaustion and relentless schedule is starting to take it’s toll.  Do you ever feel like you’re sleep walking?  Fire fighting, satisfying a conveyor belt of demands and it just doesn’t stop.  I’ve been shouty, impatient mum for a few days now.  Zero patience with a toddler is like putting washing up liquid in a car engine.  So my frame of mind at present has no room for love hearts and cuddly toys.  A priceless present for me would be an uninterrupted bath with my favourite scented candles…. somehow I’ll make this happen!</p>
+
+<p>Love is love even when he doesn’t take the bins out, when he sleeps through your sleepless nights with the baby and is still apparently knackered.  Love is pushing through the grey matter that fogs your mind and relationship  when the mental load is taking its toll and for once you just wish you didn’t feel like you do it all in military style, forward thinking, back thinking, planning, executing, packing, cooking, cleaning, feeding. Love is sharing the load, being equally knackered, dribbling with exhaustion together in harmony. We love every day, silently over the weetabix,  patiently during laundry days, loudly in the supermarket.</p>
+
+<figure>
+    <img src="/blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_395x0_resize_q75_box.jpg 395w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_790x0_resize_q75_box.jpg 790w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_1580x0_resize_q75_box.jpg 1580w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_2370x0_resize_q75_box.jpg 2370w,
+          /blog/happy-valentines-day/images/madu-and-tinu-sand_hu71f62084b96601f9eb65f9ddd1abb679_2339850_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Whatever your situation, love begins with you. Love you, appreciate you.  Buy yourself flowers, get a new frock, get some whipped cream and marshmallows on that hot chocolate, crack open a bottle of red, enjoy a yummy plate, binge on a box set, have a bubble bath, book a mani pedi, go for a nice walk, do whatever makes your heart sing and your mind at peace.  You are loved, you are cherished, you are worthy of love. Whatever you do today, show some love, appreciate the one you take for granted daily, and most importantly, do something you love and love yourself.</p>
+
+<p>Please add a comment below, like, share and follow me on instagram, twitter and facebook.</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/i-do/images/feature_hu37a066ceaef65215736dc63427c4303c_1755211_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>I Do…</title>
             <link>https://tinualikor.com/blog/i-do/</link>
-        </image>
-          
-      <description>I thought I’d introduce my other half properly as I’m sure he’ll be featuring in some of my blogs and it’s only polite to give you a brief low down on the man that is the pepper in my stew, custard on my crumble, my Mr Big.
-So I started this post initially wanting to introduce our benetton backgrounds but then it struck me that I’m not adequately equipped to really do it justice as we were both born and bred in London and pie and mash are in our veins with a hint of egusi and flying fish.</description>
-    </item>
-    
-    <item>
-      <title>Too much choice?</title>
-      <link>https://tinualikor.com/blog/too-much-choice/</link>
-      <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/too-much-choice/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 03 Dec 2018 11:42:31 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/i-do/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>I thought I’d introduce my other half properly as I’m sure he’ll be featuring in some of my blogs and it’s only polite to give you a brief low down on the man that is the pepper in my stew, custard on my crumble, my Mr Big.</p>
 
+<p>So I started this post initially wanting to introduce our benetton backgrounds but then it struck me that I’m not adequately equipped to really do it justice as we were both born and bred in London and pie and mash are in our veins with a hint of egusi and flying fish. But diverse we are, my parents are Nigerian and husband’s background stems from Barbados, Nigeria and the UK. Despite this eclectic mix which we hold with pride, we’re both fundamentally Londoners, the melting pot that is the big smoke. And currently global citizens of the world.</p>
+
+<figure>
+    <img src="/blog/i-do/images/madtin_hub4757b58b40e6de2afe54dc6cd161c10_465845_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/i-do/images/madtin_hub4757b58b40e6de2afe54dc6cd161c10_465845_395x0_resize_q75_box.jpg 395w,
+          /blog/i-do/images/madtin_hub4757b58b40e6de2afe54dc6cd161c10_465845_790x0_resize_q75_box.jpg 790w,
+          /blog/i-do/images/madtin_hub4757b58b40e6de2afe54dc6cd161c10_465845_1580x0_resize_q75_box.jpg 1580w,
+          /blog/i-do/images/madtin_hub4757b58b40e6de2afe54dc6cd161c10_465845_2370x0_resize_q75_box.jpg 2370w,
+          /blog/i-do/images/madtin_hub4757b58b40e6de2afe54dc6cd161c10_465845_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>It just happens that my husband Madu spent the first three years of his life in a small village in Nigeria with his parents. The rest of his formative years were in London, but somehow he’s managed to embody the essence of a southern Nigerian man with little effort! Definitely more nature than nurture! An interesting mix of genetic tendencies and perhaps a desire to belong. It’s funny it’s difficult to define a Londoners cultural identity, it can be a blur of complimentary or sometimes opposing ideals, but whatever the composition we love it.</p>
+
+<p>We met online and have been literally inseparable since our first date in Mango Room. From surprise evenings out in West End to an impromptu week long road trip adventure on one of my work stints in Jamaica. Six months after meeting he quit his job and flew out to propose…we haven’t looked back since.</p>
+
+<p>Yesterday my blender gave up the ghost and I almost cried, it’s been good to me and lasted more years than I care to admit, but owning a blender is synonymous with being a Nigerian. And now I’m in a culinary abyss without it. My other concern is that if I don’t replace it sharpish, so close to Christmas I’ll end up with a new blender from Madu as a present…romance isn’t dead, he’s just pragmatic and Igbo(!) At least that’s what he tells me!</p>
+
+<p>He’s a loving, gentle, technology obsessed man who prides himself on being current, always aims for the best and can negotiate a pay rise with slick aptitude and unrivalled confidence. He taught me to love me more, believes in me when I don’t believe in myself. And encourages me to pursue my dreams. That’s a pretty basic but beautiful asset to have, someone who’s always in your corner.</p>
+
+<p>On the flip side, his confidence borders arrogance at times, he sometimes has a problem with authority, is very opinionated and isn’t scared of being fired for what he believes in. His level of maturity needs to step up a few notches as risks don’t just affect him anymore, and we’re no longer in batchelor territory. Every decision impacts his family. Unemployment is not a word I enjoy discussing over my spag bog, but it’s a conversation I’ve had with him one too many times. But because he is who he is, he knows he can get another well paid job relatively easily….but is that the point? Marriage puts you in situations that you just can’t run away from. It forces you to face another persons bad habits and shortcomings head on. There is nowhere to hide. And once you have children the dynamic further alters as you do all that you can to put them first and maintain a stable loving environment. Being told by your husband that he’s job hunting in your 34th week of pregnancy isn’t fun. But apparently it’s all going to be ok.</p>
+
+<p>Marriage is a complex fusion of hearts and minds. Where Mars and Venus align and two attempt to become one. Where perfectionist Polly is confronted with dirty Daves dirty laundry scattered in obscure parts of the home, often next to the laundry basket….strangely it never quite makes it in. Where unintentional blindness is actually a serious condition. Where multi-tasking is apparently a female attribute and replacing the bog roll is a job that requires deep commitment. A friend of mine once said to me that people often forget that marriage is a journey not a destination. And that’s spot on. It’s a work in progress, a marathon, not a sprint. I’m lucky to have married my best friend, as inscribed on his wedding band, my ride or die.</p>
+
+<figure>
+    <img src="/blog/i-do/images/madu_hud9a1313d0a45dacbd1405dcc51ce2df7_99259_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/i-do/images/madu_hud9a1313d0a45dacbd1405dcc51ce2df7_99259_395x0_resize_q75_box.jpg 395w,
+          /blog/i-do/images/madu_hud9a1313d0a45dacbd1405dcc51ce2df7_99259_790x0_resize_q75_box.jpg 790w,
+          /blog/i-do/images/madu_hud9a1313d0a45dacbd1405dcc51ce2df7_99259_1580x0_resize_q75_box.jpg 1580w,
+          /blog/i-do/images/madu_hud9a1313d0a45dacbd1405dcc51ce2df7_99259_2370x0_resize_q75_box.jpg 2370w,
+          /blog/i-do/images/madu_hud9a1313d0a45dacbd1405dcc51ce2df7_99259_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>If people were honest about how tough marriage can be, many would probably avoid it or feel less defeated if it eludes them. Marriage is beautiful and life changing and all consuming, and frustrating and exposing. It’s choosing someone to be vulnerable with, to laugh with and ride the waves of life with. It truly is in sickness and in health, through the good times and the bad. It takes resilience, patience, forgiveness and a sense of humour you didn’t know you had.</p>
+
+<p>I don’t remember the last time I went to the toilet alone. And that’s not just my two year old who barges in on me. Lock the door I hear you say! Yes I would if we didn’t have those annoying child safety door stoppers to stop my son from losing precious digits in the hinges! But seriously…can a girl just go in peace?!</p>
+
+<p>If I had any dignity when we got hitched, and I’d like to think I did! It soon evaporated during child birth. A wonderful, eye watering, life altering experience that stripped me back to my core. Madu was an awesome birth partner, attentive and supportive, although confronting me with photographic and video evidence of the birth of our son without my knowledge almost got him fired, apprentice style! We’ve just been blessed with the arrival of our beautiful daughter, here’s my husband having an obviously much needed rest after I’ve given birth(!)</p>
+
+<figure>
+    <img src="/blog/i-do/images/sleep_hu2121435d20c8329bd7e27bc603810341_2024313_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/i-do/images/sleep_hu2121435d20c8329bd7e27bc603810341_2024313_395x0_resize_q75_box.jpg 395w,
+          /blog/i-do/images/sleep_hu2121435d20c8329bd7e27bc603810341_2024313_790x0_resize_q75_box.jpg 790w,
+          /blog/i-do/images/sleep_hu2121435d20c8329bd7e27bc603810341_2024313_1580x0_resize_q75_box.jpg 1580w,
+          /blog/i-do/images/sleep_hu2121435d20c8329bd7e27bc603810341_2024313_2370x0_resize_q75_box.jpg 2370w,
+          /blog/i-do/images/sleep_hu2121435d20c8329bd7e27bc603810341_2024313_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>I had a rule when dating years ago, as soon as I liked someone enough to grace them with a second or third date I would ensure I orchestrated a dress down meet up where I wore minimal make up, casual clothes and my hair was in it’s original afro form. I’d do this occasionally if we continued to date and I hadn’t frightened them with my Erykah Badu vibes! I wish more women did this, and they would perhaps be more likely to attract partners that are less superficial! Waking up to put on a full face before your partner wakes up is crazy behaviour. I’d love to hear from women who actually keep this up!</p>
+
+<p>This evening my husband wouldn’t let me finish a sentence and just kept interrupting me. I found it rude and annoying, so as he did it repeatedly I just stopped talking, as clearly he’d prefer to hear the sound of his own voice, so why spoil it for him(!) Then he says I’m harping on about him interrupting me, and just get on with what I have to say….my response to that contains many expletives none of which are suitable for print….marriage gives you a level of patience you didn’t know was possible. And teaches you to forgive even when the other person doesn’t deserve it. It pushes you to prioritise your union and count to a million before you bail. It prevents you from throwing heavy objects at your husband when he jokes about saving money by manually expressing milk rather than buying one of those “over rated pumps”. Marriage is for the mature, the selfless and the committed. Loving someone without condition, loving someone who ate the last import only hobnob and cunningly and perhaps cruelly left the packaging in the cupboard, so you had no idea they were even finished….yes people do that!</p>
+
+<p>Marriage is full of light and wonder, comfort and hope. It has renewed my faith in humanity and given me joy beyond measure and two beautiful children. I’m still understanding what being a wife means, this year I asked for a wife for Christmas…everyone needs a good one! We’re enjoying the learning and the journey. so that’s us the Alikor’s, hopelessly devoted and grateful to have each other.</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/too-much-choice/images/feature_huf3d7d8729afc8d08aa5a2d237dcd9a56_2987805_790x0_resize_box_2.png</url>
-          
+        
+        
+            <item>
             <title>Too much choice?</title>
             <link>https://tinualikor.com/blog/too-much-choice/</link>
-        </image>
-          
-      <description>Are we the generation that just have too many options??
-One where we dismiss potential partners with a quick flick, could easily go on a date a day if our schedules permitted and take pride in our mantra of choosing not to ‘settle’. Now what exactly is settling??
-To settle actually means to resolve or reach an agreement about (an argument or problem). But in this modern age when we refer to settling in a relationship context we deem it to be negative and unsatisfactory.</description>
-    </item>
-    
-  </channel>
+            <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/too-much-choice/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Are we the generation that just have too many options??</p>
+
+<p>One where we dismiss potential partners with a quick flick, could easily go on a date a day if our schedules permitted and take pride in our mantra of choosing not to ‘settle’. Now what exactly is settling??</p>
+
+<p>To settle actually means to resolve or reach an agreement about (an argument or problem). But in this modern age when we refer to settling in a relationship context we deem it to be negative and unsatisfactory. Let’s just go over this again….to settle is to reach an agreement or resolve and argument or problem. So if your problem is loneliness but your list of must haves includes a shiny full head of hair, and Bob comes along with a receding hairline who makes you laugh and texts you sweet nothings daily, then you’ve found a potential resolve to your problem. Is this settling? Now…how important is this hair issue…? Is it a deal breaker?? Will you have sleepless nights thinking about Bobs hair shedding on his pillow? Will you cringe every time you have to imagine running your hands through his non existent mane…? The world’s ending I know….I mean don’t get me wrong, I like a good head of hair along with the next girl. But if my problem is loneliness and I find a good man with follicle issues I’m going to snap that man up and go and hug a wig in the hair shop if it makes me feel better. If this is settling….according to the millenial Oxford definition, then I’m a settler and proud!!</p>
+
+<p>“Settling” in a relationship context according to the urban dictionary means accepting significantly less than you want, because you don’t think you can get what you want. Apparently it doesn’t have anything to do with being “better” than the other person, but it does imply that you’re not actually passionate about the person and are simply taking what you can get.</p>
+
+<p>Now this is where I disagree, and feel it to be more about perception. Having a list of 5 requirements in a partner and finding Bob only has 3 out of the five could be deemed as “settling”. If you perceive you have drawn the short straw and should in fact strive to find the holy grail and tick all 5 boxes then yes that is settling and will possibly leave you feeling discontent, unhappy and dissatisfied. However if your list of 5 requirements is admittedly unreasonable at best, or even mythical and on reflection they don’t mean much to you, then passing on the potential for love is a loss. What really matters to you? What do you regard as a game changer?</p>
+
+<p>Settling is letting go of the things that are not important to you. The stuff that you can live without. It’s not compromising, or being defeated by fear. It’s changing your perception and saying yes more! Dating is such a minefield in this day. We swipe till our fingers hurt and have lost the art of conversation and getting beneath the hood, (no pun intended). We imagine our lives pictured in fairytales that make us hold out for the glass slipper when actually we’d be more suited to some comfy pumps. I’m all for having high standards and waiting for the ‘one’ but the truth is sometimes we can get caught up in the noise of apps and social media, and lose sight of what really matters.</p>
+
+<p>Can you remember who you were before you were told who to be? Who to like, what to like? What to expect, what to achieve? How to achieve it? Finding the person whom you can’t live without can be a tall order, but if you get rid of the noise of perfection and settling, the journey may be a little easier. It’s so easy to sleep walk in to situations, but today I’m asking you to open your eyes and take the reigns back. It’s never too late to strive for what you want, don’t be overwhelmed or intimidated with the blur of choice that surrounds you. Only one person matters and that’s you.</p>
+
+<p>It’s a jungle out there, there’s no denying that. In every sphere of life we have options and the decisions we make colour our path and provide the hinges to the doors that open and close in our lives. My wish for you is to find peace, happiness and contentment. Pursue what you want with vigour and passion. And settle for nothing less than your happiness.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

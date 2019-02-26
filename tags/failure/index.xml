@@ -1,37 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Failure on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/failure/</link>
-    <description>Recent content in Failure on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Mon, 03 Sep 2018 06:01:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/failure/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Fail Like a Boss</title>
-      <link>https://tinualikor.com/blog/fail-like-a-boss/</link>
-      <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/failure/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg</url>
-          
+        
+            <item>
             <title>Fail Like a Boss</title>
             <link>https://tinualikor.com/blog/fail-like-a-boss/</link>
-        </image>
-          
-      <description>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?
-I then began questioning myself and why I took issue with the suggestion of a probationary period and the thought that my child may be rejected.</description>
-    </item>
-    
-  </channel>
+            <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?</p>
+
+<p>I then began questioning myself and why I took issue with the suggestion of a probationary period and the thought that my child may be rejected. ‘Rejection’ is so emotive! Are we so sensitive that the thought of being measured or challenged makes us inherently uncomfortable? Is failing at something a conclusive label? What’s wrong with failing?</p>
+
+<p>My son may not be best suited to a particular environment or activity depending on his disposition, but fail…? No no no….I’m a great believer in exposing children to as many new experiences as you can and letting them decide what they enjoy, or have an affinity for. I don’t want to be pushy or overbearing, just trying to find a balance between being encouraging and of course being protective and having his best interests at heart.</p>
+
+<p>So many of us pre-empt what we think our children can handle, we allow our own characteristics to define our children’s potential. We often label them, and spend their formative years projecting ourselves on their blank canvases, before they can even pronounce the word ‘fail’. In trying to protect them we confine them to our own limitations. Sometimes we confuse genuine care with control and fear. Finding the right balance is not easy…like most aspects of parenting!</p>
+
+<p>I’m not big on wildlife and nature. I’m in awe of the beauty of the world and intrigued by animals…and have had the pleasure of experiencing some truly breathtaking sights all over the world. But whilst I love an adventure, and have been known to get stuck into spontaneous excursions, white water rafting, zip lining and (indoor) skydiving, I’m Nigerian, my mum would slap me if I voluntarily threw myself out of a plane. But I’m more comfortable reclining in an air conditioned vehicle observing the various spectacles than being knee deep in dirt swatting away creatures that quite possibly could send me into a panicked state of hyperventilation!</p>
+
+<p>So roughing it in campsites, sharing a bathroom and using toilet facilities that involve holes in the ground are just not my thing. But of course I don’t want to inflict my princess ways on my child. He’ll learn some grit from me, but not the kind that’s suitable for any bush tucker trial. So I’m trying my best to put my own sensibilities aside and allow my son to learn and grow, and experience the world through his own lens. And that’s what parenting is all about. Trying not to screw your child over with the sometimes messed up issues you may have whilst keeping them alive and happy! Tall order!
+Have you ever been so afraid at failing at something you decided not to try at all? Is the fear of failure so strong that it surpasses the fear of regret or stagnation? I’m not sure why we’re so fearful of failing, personally I’d rather fail quickly and move on than paralyse myself into not trying at all. I guess I have more of a fear of regret than a fear of failure. Failing is ok, it means you had the guts to try and that in itself deserves a pat on the back. Failure should be followed by a personal debrief, what went wrong? How can you avoid it in the future? It’s ok to fail, but failing to try is a waste of your potential. And you have potential!</p>
+
+<p>So I’m altering my perspective and promoting failure, as it is in the trying that we truly become great. I want my son to grasp opportunities with both hands and I’ll try my best to stand behind him and cushion if his falls. Falling is ok, as long as you get up again. And it doesn’t matter how many times you fail, keep rising, and don’t stop trying.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

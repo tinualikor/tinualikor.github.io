@@ -1,37 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Success on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/success/</link>
-    <description>Recent content in Success on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/success/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Ten ways to improve confidence</title>
-      <link>https://tinualikor.com/blog/ten-ways-to-improve-confidence/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/ten-ways-to-improve-confidence/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/success/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_790x0_resize_q75_box.jpg</url>
-          
+        
+            <item>
             <title>Ten ways to improve confidence</title>
             <link>https://tinualikor.com/blog/ten-ways-to-improve-confidence/</link>
-        </image>
-          
-      <description>Follow my blog with Bloglovin
-1. Believe in yourself You need to be your own cheerleader. Focus on the things you&amp;rsquo;re great at. Trust your own abilities. Remember the things you have achieved so far and use those memories as a foundation for the things you&amp;rsquo;d like to achieve in the future. Don&amp;rsquo;t be afraid to be heard. Your opinion is valuable and counts 2. Silence your inner critic Self deprecation needs to stop.</description>
-    </item>
+            <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/ten-ways-to-improve-confidence/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[
+
+<p><a href="https://www.bloglovin.com/blog/19788609/?claim=e5x9w3qxhr6">Follow my blog with Bloglovin</a></p>
+
+<h2 id="1-believe-in-yourself">1. Believe in yourself</h2>
+
+<p>You need to be your own cheerleader. Focus on the things you&rsquo;re great at. Trust your own abilities. Remember the things you have achieved so far and use those memories as a foundation for the things you&rsquo;d like to achieve in the future. Don&rsquo;t be afraid to be heard. Your opinion is valuable and counts </p>
+
+<h2 id="2-silence-your-inner-critic">2. Silence your inner critic</h2>
+
+<p>Self deprecation needs to stop. When someone says you look great, say thank you. When someone congratulates you on a good job, again say thank you. Sometimes to silence the inner critic you need positive voices around you shouting louder! If you have no friends to reinforce Your good qualities and give you positive constructive feedback, then listen to energising talks, podcasts, videos, audio books, fill your spirit with so much positivity that the niggling inner critic will soon be drowned out… and reconsider your friendship circle! </p>
+
+<h2 id="3-follow-through-with-what-you-say-you-will-do">3. Follow through with what you say you will do</h2>
+
+<p>Stop procrastinating. Under promise and over deliver at first if you have to. But whatever you do, follow through. Differentiate between reasons and excuses. The more you get stuff done the more credible you will feel. It&rsquo;s really as simple as that!</p>
+
+<figure>
+    <img src="/blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_790x0_resize_q75_box.jpg"
+    srcset="
     
-  </channel>
+    /blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_395x0_resize_q75_box.jpg 395w,
+          /blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_790x0_resize_q75_box.jpg 790w,
+          /blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_1580x0_resize_q75_box.jpg 1580w,
+          /blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_2370x0_resize_q75_box.jpg 2370w,
+          /blog/ten-ways-to-improve-confidence/images/tinuwaterfall_hu695ff7802b6ba961a8ee1db686c129f9_625029_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<h2 id="4-educate-yourself-stay-current">4. Educate yourself - stay current.</h2>
+
+<p>Knowledge really is power and the more information you have the less you&rsquo;ll feel like an imposter.</p>
+
+<h2 id="5-visualise-your-goals">5. Visualise your goals </h2>
+
+<p>Create mind maps and mood boards. Someone once said to me &lsquo;if you can see it you can have it&rsquo;. Visualising your goals will make them more tangible, and on your road to a more confident you, make your vision of yourself a reality, but paint the picture first.</p>
+
+<h2 id="6-dress-to-impress-yourself">6. Dress to impress yourself</h2>
+
+<p>For some reason when you look good you feel good. When you put on your best you feel like you&rsquo;re on the road to world domination.</p>
+
+<h2 id="7-monitor-your-progress">7. Monitor your progress</h2>
+
+<p>Confidence grows with progress, it&rsquo;s really as simple as that. If you monitor your progress you can see just how far you&rsquo;ve come.</p>
+
+<figure>
+    <img src="/blog/ten-ways-to-improve-confidence/images/joshuarunning_hu96d1b73486cb87c6c4b4666de6e6e3a0_361557_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/ten-ways-to-improve-confidence/images/joshuarunning_hu96d1b73486cb87c6c4b4666de6e6e3a0_361557_395x0_resize_q75_box.jpg 395w,
+          /blog/ten-ways-to-improve-confidence/images/joshuarunning_hu96d1b73486cb87c6c4b4666de6e6e3a0_361557_790x0_resize_q75_box.jpg 790w,
+          /blog/ten-ways-to-improve-confidence/images/joshuarunning_hu96d1b73486cb87c6c4b4666de6e6e3a0_361557_1580x0_resize_q75_box.jpg 1580w,
+          /blog/ten-ways-to-improve-confidence/images/joshuarunning_hu96d1b73486cb87c6c4b4666de6e6e3a0_361557_2370x0_resize_q75_box.jpg 2370w,
+          /blog/ten-ways-to-improve-confidence/images/joshuarunning_hu96d1b73486cb87c6c4b4666de6e6e3a0_361557_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<h2 id="8-be-shameless-and-stay-in-your-lane">8. Be shameless and stay in your lane</h2>
+
+<p>Think less about what people think. Most people don&rsquo;t have their ish together and are just faking it until they make it. Don&rsquo;t worry about what others are doing or not doing! Don&rsquo;t use other people as your benchmark for success. Just be you.</p>
+
+<h2 id="9-take-risks">9. Take risks</h2>
+
+<p>Risk takers are history makers. Heard of the saying he who dares wins? Risks are not for the faint hearted but to really grow in confidence you have to do things that scare you, and in stepping out of your comfort zone, you&rsquo;re winning already. It takes confidence to take risks and be bold.</p>
+
+<h2 id="10-do-more-of-what-makes-you-happy-and-you-re-good-at">10. Do more of what makes you happy and you&rsquo;re good at</h2>
+
+<p>Confidence is reinforced by joy. Be happy and confidence will exude.</p>
+
+<p>Thanks for reading, please feel free to get in touch. I&rsquo;ll be posting a new blog every Monday morning. You can follow me using the links on my site. Have a great week!</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

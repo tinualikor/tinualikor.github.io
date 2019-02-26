@@ -1,38 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Compromise on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/compromise/</link>
-    <description>Recent content in Compromise on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Mon, 17 Sep 2018 07:35:01 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/compromise/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Too much choice?</title>
-      <link>https://tinualikor.com/blog/too-much-choice/</link>
-      <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/too-much-choice/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/compromise/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/too-much-choice/images/feature_huf3d7d8729afc8d08aa5a2d237dcd9a56_2987805_790x0_resize_box_2.png</url>
-          
+        
+            <item>
             <title>Too much choice?</title>
             <link>https://tinualikor.com/blog/too-much-choice/</link>
-        </image>
-          
-      <description>Are we the generation that just have too many options??
-One where we dismiss potential partners with a quick flick, could easily go on a date a day if our schedules permitted and take pride in our mantra of choosing not to ‘settle’. Now what exactly is settling??
-To settle actually means to resolve or reach an agreement about (an argument or problem). But in this modern age when we refer to settling in a relationship context we deem it to be negative and unsatisfactory.</description>
-    </item>
-    
-  </channel>
+            <pubDate>Mon, 17 Sep 2018 07:35:01 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/too-much-choice/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Are we the generation that just have too many options??</p>
+
+<p>One where we dismiss potential partners with a quick flick, could easily go on a date a day if our schedules permitted and take pride in our mantra of choosing not to ‘settle’. Now what exactly is settling??</p>
+
+<p>To settle actually means to resolve or reach an agreement about (an argument or problem). But in this modern age when we refer to settling in a relationship context we deem it to be negative and unsatisfactory. Let’s just go over this again….to settle is to reach an agreement or resolve and argument or problem. So if your problem is loneliness but your list of must haves includes a shiny full head of hair, and Bob comes along with a receding hairline who makes you laugh and texts you sweet nothings daily, then you’ve found a potential resolve to your problem. Is this settling? Now…how important is this hair issue…? Is it a deal breaker?? Will you have sleepless nights thinking about Bobs hair shedding on his pillow? Will you cringe every time you have to imagine running your hands through his non existent mane…? The world’s ending I know….I mean don’t get me wrong, I like a good head of hair along with the next girl. But if my problem is loneliness and I find a good man with follicle issues I’m going to snap that man up and go and hug a wig in the hair shop if it makes me feel better. If this is settling….according to the millenial Oxford definition, then I’m a settler and proud!!</p>
+
+<p>“Settling” in a relationship context according to the urban dictionary means accepting significantly less than you want, because you don’t think you can get what you want. Apparently it doesn’t have anything to do with being “better” than the other person, but it does imply that you’re not actually passionate about the person and are simply taking what you can get.</p>
+
+<p>Now this is where I disagree, and feel it to be more about perception. Having a list of 5 requirements in a partner and finding Bob only has 3 out of the five could be deemed as “settling”. If you perceive you have drawn the short straw and should in fact strive to find the holy grail and tick all 5 boxes then yes that is settling and will possibly leave you feeling discontent, unhappy and dissatisfied. However if your list of 5 requirements is admittedly unreasonable at best, or even mythical and on reflection they don’t mean much to you, then passing on the potential for love is a loss. What really matters to you? What do you regard as a game changer?</p>
+
+<p>Settling is letting go of the things that are not important to you. The stuff that you can live without. It’s not compromising, or being defeated by fear. It’s changing your perception and saying yes more! Dating is such a minefield in this day. We swipe till our fingers hurt and have lost the art of conversation and getting beneath the hood, (no pun intended). We imagine our lives pictured in fairytales that make us hold out for the glass slipper when actually we’d be more suited to some comfy pumps. I’m all for having high standards and waiting for the ‘one’ but the truth is sometimes we can get caught up in the noise of apps and social media, and lose sight of what really matters.</p>
+
+<p>Can you remember who you were before you were told who to be? Who to like, what to like? What to expect, what to achieve? How to achieve it? Finding the person whom you can’t live without can be a tall order, but if you get rid of the noise of perfection and settling, the journey may be a little easier. It’s so easy to sleep walk in to situations, but today I’m asking you to open your eyes and take the reigns back. It’s never too late to strive for what you want, don’t be overwhelmed or intimidated with the blur of choice that surrounds you. Only one person matters and that’s you.</p>
+
+<p>It’s a jungle out there, there’s no denying that. In every sphere of life we have options and the decisions we make colour our path and provide the hinges to the doors that open and close in our lives. My wish for you is to find peace, happiness and contentment. Pursue what you want with vigour and passion. And settle for nothing less than your happiness.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

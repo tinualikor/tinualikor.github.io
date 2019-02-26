@@ -1,204 +1,451 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Parenting on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/parenting/</link>
-    <description>Recent content in Parenting on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/parenting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Mumgry</title>
-      <link>https://tinualikor.com/blog/mumgry/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/mumgry/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/parenting/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG</url>
-          
+        
+            <item>
             <title>Mumgry</title>
             <link>https://tinualikor.com/blog/mumgry/</link>
-        </image>
-          
-      <description>Have you heard of the term Hangry? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!
-Well I’ve felt like that often, so I’m known for carrying around snacks and planning my life around where the nearest eatery is.</description>
-    </item>
-    
-    <item>
-      <title>Mum of two survival tips</title>
-      <link>https://tinualikor.com/blog/mum-of-two-survival-tips/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/mum-of-two-survival-tips/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/mumgry/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Have you heard of the term <strong>Hangry</strong>? It’s a clever portmanteau of hungry and angry, and an adjective that describes being irritable due to hunger, a term to describe that feeling you get when you’re hungry, and about to knock someone the hell out if you don’t get some food fast!</p>
 
+<p>Well I’ve felt like that often, so I’m known for carrying around snacks and planning my life around where the nearest eatery is. I can pretty much describe anywhere I’ve been in the world in relation to good food. Sorry not sorry. I hate being hungry and am blessed to live comfortably enough to never have to experience this feeling unless I’m caught out somewhere remote or just lose track of time and there isn’t a drive through in sight. I’m a self confessed hangry person. Like I need food and am just distracted by it’s absence to the point of vexness, so I just don’t go there and prepare like a girl scout as it’s not a pretty site!</p>
+
+<p>I’d like to think I’m pretty level headed and don’t have any known conditions that affect my ability to respond proportionately to situations. I’m rational, logical, don’t suffer fools much but I’m generally patient…ish. … or at least that’s what I thought! Until I got married and had babies!</p>
+
+<figure>
+    <img src="/blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG"
+    srcset="
+    
+    /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_395x0_resize_q75_box.JPG 395w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_790x0_resize_q75_box.JPG 790w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_1580x0_resize_q75_box.JPG 1580w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_2370x0_resize_q75_box.JPG 2370w,
+          /blog/mumgry/images/mumgry_huf144fd544aeb2493469f768cd3b0f2a3_215021_3160x0_resize_q75_box.JPG 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Have you heard of the saying, ‘hell hath no fury like a woman scorned’? I’m not so sure it’s comparable to an angry mum! Now I’m coining a new word. <strong>Mumgry!</strong> I can’t be the only one to have felt this silent rage creeping up when your partner is snoring whilst your exhausted body struggles to stay awake and feed the baby? Or when he forgets to load the dishwasher after you cooked dinner, did the laundry, hoovered and painted the Sistine chapel, and says he’ll do it in the morning. It’s that uncontrollable urge to throw a heavy implement at someone you love because for that split second you are seething and just wish they understood the pressure you feel, the exhaustion you’re experiencing and the complete and utter overwhelm that is engulfing you. It’s a time when you feel like your brain has gone to mush, when you can’t remember if you put diesel or petrol in the car. When you breastfeed on demand in a taxi and rush out of the taxi with your boob out until you get home, and no one tells you!</p>
+
+<p>I don’t know the statistics but I’m pretty confident that one of the biggest factors resulting in relationship breakdown is the arrival of children. It changes the dynamics of your partnership. It really separates the men from the boys, and the women from the girls. It exposes your ride or die for the sweet talk he’s been spinning for years. He’s not ride or die, he’s let me sleep or I’ll die! The realisation that this sexy man whom you gave up your uterus for, is now the object of your dissatisfaction and in fact the focus of your vehemence is a little unnerving and can swerve out of nowhere. Even the most laid back of couples can have their mumgry moments. It’s usually a completely understandable response to something that just pushes you over the edge, but because of the new baby and the sleep deprivation people think you’re losing it or are in some hormonal abyss. Hormones may have a huge part to play in it, but it’s also just a whole lot of change and a whole lot of exhaustion, mixed in with expectations, trying to maintain a somewhat functioning household and the fact that sometimes people are just sleep walking into family life and not pulling their weight.</p>
+
+<p>Women tend to be the primary care givers, regardless of the life they had before children, and even those who made more money than their partners unfortunately can’t hand over child bearing duties, and alot of the time the gender stereotypes and society’s perception of the ‘norm’ results in women staying at home, men getting insignificant time off for paternity leave and women left holding the baby.</p>
+
+<p>Somehow we’ve allowed society to tell us that we’re better at nurturing and that essentially gets men off the hook. Maternal instinct doesn’t come naturally for everyone. Most of us have to work at being mums. We learn on the job and it’s tough even for Mary Poppins understudies. But we do our best, and always show up, which is half the battle.</p>
+
+<p>But how do we keep mumgry under control? Just like my detailed planning required to avoid hangry moments, I too need to work on the cues for mumgry ones. And share the trigger points with my partner so he knows what the deal is. So whether it’s chores, finances, sex, socialising, or you’ve simply got beef over hogging the remote control, it’s all fixable, if you both want it to be fixed. Children are an amazing gift that come with unfettered joy and challenges, remind yourself of the love it took to have them and put maintaining that love high on your to do list, above the laundry!</p>
+
+<p>Changing your focus is definitely key. Being comfortable is great, but don’t be complacent. Don’t take your partner for granted, don’t assume anything. Make time for each other. Everyone wants to be heard, understood and loved. Communicate! Write a list of weekly chores and divvy them up. Put it somewhere you can both see. If you both write it the onus on whose responsibility it is to ensure they’re completed changes. It’s our responsibility. If we fail, we fail together, and we can ease the mental load on women just a little bit.</p>
+
+<p>As I write this post, breastfeeding, coughing and full of cold and trying to eat my breakfast. I say that the cough I have is causing me some pain in my stomach. My husbands response is, ‘great babes, those are the muscles where you’re supposed to have abs, you’re building your pack back!’ I can just feel another mumgry moment coming on, so I’m about to play some classical tunes and finish this up! Wishing you light and love and laughter and no police cautions.</p>
+
+<p>I’d love to hear your mumgry moments and if you’ve got any coping mechanisms please share! Thanks for reading! Please like, share and <a href="https://www.instagram.com/tinualikor/">follow me</a>.</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/mum-of-two-survival-tips/images/two-happy-kids_hu8bd73f293d04bbc53f400c406222be67_1908490_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Mum of two survival tips</title>
             <link>https://tinualikor.com/blog/mum-of-two-survival-tips/</link>
-        </image>
-          
-      <description>Now I&amp;rsquo;ve got your attention… did you think I actually had tips…does anyone?! I remember before my daughter was born jokingly but seriously asking people with multiple kids for tips on how to cope with two kids….no one responded. At first I thought, that&amp;rsquo;s just rude really…a girl just needs some advice, and now I realise that everyone is full on blagging their way through parenthood and no one can offer any tips because some of their survival techniques are unconventional or tailor made to suit them, or they&amp;rsquo;re simply just surviving!</description>
-    </item>
-    
-    <item>
-      <title>Heroin, carbs and a stable pay cheque</title>
-      <link>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/</link>
-      <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/mum-of-two-survival-tips/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Now I&rsquo;ve got your attention… did you think I actually had tips…does anyone?! I remember before my daughter was born jokingly but seriously asking people with multiple kids for tips on how to cope with two kids….no one responded. At first I thought, that&rsquo;s just rude really…a girl just needs some advice, and now I realise that everyone is full on blagging their way through parenthood and no one can offer any tips because some of their survival techniques are unconventional or tailor made to suit them, or they&rsquo;re simply just surviving!! Whatever your &lsquo;methods&rsquo; I salute and chest bump you with passion.  It ain&rsquo;t easy!</p>
 
+<p>Well…. I am three months into having two children, just when I thought I had got the shower routine mastered, got my hair out of doo doo plaits and ditched the stained hareem pants, I go and have another child! This new addition was never going to propel me into more self loving and uninterrupted &lsquo;me time&rsquo;. I now have even less time, am even more exhausted… if that&rsquo;s even possible and actually considered sitting in my double pram whilst the toddler was at nursery, pulling the hood down and having a kip next to the baby the other day… I was that tired. </p>
+
+<p>Whilst I have no real tips as such there are a few things that I wish I had known and that have helped me &lsquo;survive&rsquo; so far. So I&rsquo;m sharing in the hope that even one parent out there receives some light and love from this post, even if it is just a warm virtual bear hug reminding you, you&rsquo;re not alone! We&rsquo;re all just fumbling around in the dark hoping not to cause any irreparable damage! And we are essentially doing great, we just need reminding of that occasionally! Please share things that work for you too! Every little helps!!</p>
+
+<p>So here it is, my top ten suggestions:</p>
+
+<ol>
+<li><p>Get a baby carrier - I never used one with my first child. I never really needed to! I had the luxury of not having to regularly multi task whilst holding my son, so although I had one only used it a handful of occasions. When you have more than one child, a baby carrier is like air! Fundamental!!! You&rsquo;ll need your hands free to do stuff, tend to your other child, household stuff, whatever, but in those early stages casually sitting breastfeeding or cuddling your newborn for hours isn&rsquo;t always possible. Look for your nearest sling library and try before you buy!</p></li>
+
+<li><p>Get a decent bag. Notice I didn&rsquo;t say baby bag. If you find a fit for purpose baby bag that works for you then run with it, but you really need a bag that&rsquo;s big enough for what you need, accessible, and can be attached or hung on your pushchair with ease. If you buy a large bag you can purchase inserts for each child to differentiate between their things, </p></li>
+
+<li><p>Always carry a water bottle and food (not just for the kids!) - rehydrate and feed yourself too!! Whether you&rsquo;re breastfeeding or not, a fuelled mummy is a happier mummy. Water is essential especially when breastfeeding. I remember getting headaches in the first few weeks of my daughters birth when I was dehydrated. Easy resolution! Drink!! And I don&rsquo;t mean cocktails! As for eating, I had a habit of just eating in between meals, eating my sons left over food and sometimes being too tired to have my own meal once the kids are sleeping. This isn&rsquo;t sustainable and you need to make sure you&rsquo;re looking after yourself. So batch cook if it&rsquo;s easier.</p></li>
+
+<li><p>Don&rsquo;t be afraid to ask for help. My husband and I have always done everything ourselves due to geography, which has put a strain on us both as we seldom get time out. But now we have 2 children we actively welcome opportunities to get help and in the first 2 months of my daughters life I received help with my toddler to ensure he was stimulated daily, happy and engaged. Asking for help from your loved ones is not a sign of weakness or inability to cope. It really does take a village to raise a child. Put your village on speed dial and get them involved!</p></li>
+
+<li><p>Do your best to schedule your kids naps as close together as possible. Nap time is sacred. My son no longer naps. I know, I cried about it too, but if he did I would be taking this on board! Try and be consistent with bedtime too. Children love routine and once they know what to expect you&rsquo;ll have an easier time getting them to comply. </p></li>
+
+<li><p>Find distraction techniques for the older child. Have quick go-to toys and games that your child loves to keep him/her occupied if you need to attend to the younger one. </p></li>
+
+<li><p>Get out of the house! Yes I know it sounds like a logistical nightmare and it can be the first couple of times when you work out what works for you, and literally &lsquo;how&rsquo; to get you all clothed and fed to leave the house! But… once you get past the chaos, it will feel like you&rsquo;ve reached nirvana! The fresh air and change of scenery will do wonders for your mental health and the children will feel better too! 
+<figure>
+    <img src="/blog/mum-of-two-survival-tips/images/family-travel-taxi_hu59715df773a330f67e52d31a80546973_599068_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/mum-of-two-survival-tips/images/family-travel-taxi_hu59715df773a330f67e52d31a80546973_599068_395x0_resize_q75_box.jpg 395w,
+          /blog/mum-of-two-survival-tips/images/family-travel-taxi_hu59715df773a330f67e52d31a80546973_599068_790x0_resize_q75_box.jpg 790w,
+          /blog/mum-of-two-survival-tips/images/family-travel-taxi_hu59715df773a330f67e52d31a80546973_599068_1580x0_resize_q75_box.jpg 1580w,
+          /blog/mum-of-two-survival-tips/images/family-travel-taxi_hu59715df773a330f67e52d31a80546973_599068_2370x0_resize_q75_box.jpg 2370w,
+          /blog/mum-of-two-survival-tips/images/family-travel-taxi_hu59715df773a330f67e52d31a80546973_599068_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure></p></li>
+
+<li><p>Sleep when they sleep. If you manage to get both kids sleeping simultaneously….grab your duvet and get involved! The washing, cooking, laundry, phonecall, can wait!</p></li>
+
+<li><p>Date night. In-between feeds, nappy changes, projectile vomit, nursery runs and reruns of paw patrol remember how it all began and make some time for the love that started it all.</p></li>
+
+<li><p>Make time for yourself at least once a week. Even if it&rsquo;s just half an hour of uninterruption. Do something you enjoy! Read a book, paint your nails, have a hot bath, go to the cinema, go for a swim. Whatever floats your boat, make time for it. You will always have lots to do, the list is endless, but if you make time for the things that are important to you and make them a priority rather than a &lsquo;nice to have&rsquo; the rest of your time will be filled with the daily responsibilities and you&rsquo;ll feel better for the little moments you made time for.</p></li>
+</ol>
+
+<p><a href="https://www.bloglovin.com/blog/19788609/?claim=e5x9w3qxhr6">Follow my blog with Bloglovin</a></p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Heroin, carbs and a stable pay cheque</title>
             <link>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/</link>
-        </image>
-          
-      <description>“The three biggest addictions are heroin, carbs, and a stable pay cheque” according to Nassim Taleb.
-I’m inclined to believe him! I’m presently trying to get a grip of two of these addictions…Thankfully I have never battled with heroin, the closest I’ve got to substance abuse has been a tea addiction! I didn’t even realise I was addicted until I decided to give it up for Lent….and the hulk appeared every morning instead of the amenable me….</description>
-    </item>
-    
-    <item>
-      <title>My Sonshine</title>
-      <link>https://tinualikor.com/blog/my-sonshine/</link>
-      <pubDate>Mon, 14 Jan 2019 10:45:47 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/my-sonshine/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 28 Jan 2019 07:01:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/heroin-carbs-and-a-stable-pay-cheque/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p><strong>“The three biggest addictions are heroin, carbs, and a stable pay cheque” according to Nassim Taleb.</strong></p>
 
+<p>I’m inclined to believe him! I’m presently trying to get a grip of two of these addictions…Thankfully I have never battled with heroin, the closest I’ve got to substance abuse has been a tea addiction! I didn’t even realise I was addicted until I decided to give it up for Lent….and the hulk appeared every morning instead of the amenable me….and the headaches….awful, throbbing migraines. But I’m proud to say I went cold turkey and I am 5 years clean and haven’t looked back! I am now content with a satisfying cup of decaf….rock and roll!</p>
+
+<figure>
+    <img src="/blog/heroin-carbs-and-a-stable-pay-cheque/images/food_hu7f402cd7215ecd784fc69a5edaf584b7_249183_790x0_resize_q75_box.JPG"
+    srcset="
+    
+    /blog/heroin-carbs-and-a-stable-pay-cheque/images/food_hu7f402cd7215ecd784fc69a5edaf584b7_249183_395x0_resize_q75_box.JPG 395w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/food_hu7f402cd7215ecd784fc69a5edaf584b7_249183_790x0_resize_q75_box.JPG 790w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/food_hu7f402cd7215ecd784fc69a5edaf584b7_249183_1580x0_resize_q75_box.JPG 1580w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/food_hu7f402cd7215ecd784fc69a5edaf584b7_249183_2370x0_resize_q75_box.JPG 2370w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/food_hu7f402cd7215ecd784fc69a5edaf584b7_249183_3160x0_resize_q75_box.JPG 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>The two main forms of carbohydrates are sugars, such as fructose, glucose, and lactose, and starches, which are found in foods such as starchy vegetables,grains, rice, breads, and cereals. The body breaks down (or converts) most carbs into the sugar glucose, which is absorbed into the bloodstream. In my eyes carbs are a necessary part of a balanced diet, but in excess carbs are evil, tasty morsels of doughy sweet pleasure!</p>
+
+<p>I used to be a UK size <sup>6</sup>&frasl;<sub>8</sub>, without making any effort. I was one of those people, you loved to hate as it took no effort to consume a few Big Macs and a side of nuggets and still look like I was about to run a triathlon.</p>
+
+<figure>
+    <img src="/blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_395x0_resize_q75_box.jpg 395w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_790x0_resize_q75_box.jpg 790w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_1580x0_resize_q75_box.jpg 1580w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_2370x0_resize_q75_box.jpg 2370w,
+          /blog/heroin-carbs-and-a-stable-pay-cheque/images/tinu-face_hu058d36ce7413b766d4db553bcb7c1fc5_186724_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Last week I stupidly made an impulsive online purchase, completely in size denial. A gorgeous size 8 skirt…..what decade was I size 8?! Oh how the mighty fall, that ship has sailed and lost at sea! I’m not sure if it’s age, post baby body or simply that I’ve used up my quota of taking the piss out of human physiology but I now have to actually think about what I eat, and the muscle memory has <strong>left the building.</strong> So carbs are not a friend, and my love of bread, and pasta, and pizza and rice, and fries and yams and all of the beautiful carbs of the world are becoming my nemesis.</p>
+
+<p>Whilst breastfeeding I think I eat my body weight in carbs daily. It’s a seriously uncontrollable craving and a bowl of lettuce and quinoa just won’t cut it. So I have no plans to give up carbs, but definitely need to reconsider how much I consume and find myself some satisfying alternatives. I’ll be blogging about these alternatives as and when I find them. If you know of any please share! I’m not going to promise to cut out carbs but I will be more carb conscious and to that effect I’ll aim to reduce my intake significantly! She says as she runs to grab her imported custard creams!</p>
+
+<p>Carbs and my attachment to a stable pay cheque…both arguably equally as destructive to my waistline. I’ve spent the majority of my adult life addicted to the high of getting my pay at the end of the month it has paralysed me into falling for the mythical safety net. It’s reassured me into almost sleep-walking into retirement in a job I’d rather not be doing, tolerating treatment I don’t deserve, second guessing my worth and relegating my dreams to mere fantasy. We all need an income, and we can’t all be entrepreneurs. There’s no shame in the stability and comfort of a regular pay cheque. But if your dreams are keeping you awake at night and your hands are itching to create your destiny you may be on the road to beating the pay cheque addiction. I’m confident I’ll always be able to find a job that will pay my bills and enable me to survive….but I won’t always have the passion and energy to take risks that could result in me creating my own destiny.</p>
+
+<p>Scarily, the first month of the year is already almost over… That’s one twelfth of the year essentially done and dusted. I’ve only just finished writing my goals for the year, so I’ve missed 27 opportunities to work on achieving them. Yes it is that granula to me! Luckily I have plenty of days to make up for it, to stay focused and make my dreams a reality and I’m ready to go!</p>
+
+<p>This year has already brought our family challenges that appear insurmountable and draining the energy we started with, but as our glass is always half full and even half full we’re willing to give a sip or two to those in a drought, we are persevering.</p>
+
+<p>Addiction is real, cold turkey isn’t for everyone. I’m a rip the plaster off kind of girl with a high pain threshold and minimal patience. Know yourself. Do what’s best for you. Make yourself a priority. But don’t let addiction of any sort rule your life. Take back the control, and make life enhancing choices.</p>
+
+<p>Thanks for reading, please feel free to get in touch. Before the arrival of my daughter I posted every Monday morning…once I come out of this sleep deprived funk, I’ll be posting regularly again(almost there!)! Please follow me on Medium, instagram, facebook and twitter</p>
+
+<p>If you would like to join Tech Mums, please join the facebook group</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>My Sonshine</title>
             <link>https://tinualikor.com/blog/my-sonshine/</link>
-        </image>
-          
-      <description>This one. This brilliant, energetic, bold, adventurous, talkative, loving, mischievous boy with endless curiosity is my biggest test. He’s the child you’ll find in the sandpit after a huge downfall of rain playing snow angels in the mud. He’s the one that could find puddles in the desert and could give a puma a run for its money. The one you’ll find moving furniture to scale the table, or pulling the blender out of the cupboard to see how it works, or trying to hang from the window ledge so he can see the bus.</description>
-    </item>
-    
-    <item>
-      <title>Absolutely Fabulous</title>
-      <link>https://tinualikor.com/blog/absolutely-fabulous/</link>
-      <pubDate>Mon, 07 Jan 2019 05:53:31 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/absolutely-fabulous/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 14 Jan 2019 10:45:47 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/my-sonshine/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>This one. This brilliant, energetic, bold, adventurous, talkative, loving, mischievous boy with endless curiosity is my biggest test. He’s the child you’ll find in the sandpit after a huge downfall of rain playing snow angels in the mud. He’s the one that could find puddles in the desert and could give a puma a run for its money. The one you’ll find moving furniture to scale the table, or pulling the blender out of the cupboard to see how it works, or trying to hang from the window ledge so he can see the bus. He’s the one that can climb a mountain and still not tire.</p>
 
+<figure>
+    <img src="/blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_395x0_resize_q75_box.jpg 395w,
+          /blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_790x0_resize_q75_box.jpg 790w,
+          /blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_1580x0_resize_q75_box.jpg 1580w,
+          /blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_2370x0_resize_q75_box.jpg 2370w,
+          /blog/my-sonshine/images/sunshine_hu771a7050c8f7b1b9bbb501e2e72be7d1_2307142_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>He’s the one you have to watch, I have ears and eyes everywhere. My patience is being challenged daily, but I know he’s just being a child, inquisitive, curious, testing the colours of life, testing boundaries, testing the physical integrity of every fixture in the apartment and excited by everything he encounters. It’s exhausting but beautiful to see and I am finding ways to nurture this passionate and inquisitive mind and channel his energy into producing something great, and just let him be. For truly great he will be. Wise, compassionate, loving, strong, sincere, motivated and kind.</p>
+
+<p>He’s the one that will eat broccoli just so that his sister doesn’t cry. That asks me multiple times during the day if I’m ok. Who says I love you at every opportunity, and tells me I’m beautiful. And whose kisses and hugs are unrivalled warm embraces that feel like hot chocolate on a cold day. I wouldn’t have him any other way. My sonshine.</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/absolutely-fabulous/images/babies_hu9254ecaebb10959bdf27619441dc4657_438742_790x0_resize_q75_box.JPG</url>
-          
+        
+        
+            <item>
             <title>Absolutely Fabulous</title>
             <link>https://tinualikor.com/blog/absolutely-fabulous/</link>
-        </image>
-          
-      <description>I saw a post the other day that made me laugh…
-“None of this new year new me bollocks, last year I was fabulous and next year I will be fabulous!”
-Very amusing, and vaguely relevant to me, I’m fabulous some days, possibly two days a week, but honestly, I think it’s BS. Maybe not a new me, but a better version of myself wouldn’t hurt, perhaps like a software update!</description>
-    </item>
-    
-    <item>
-      <title>Adulting</title>
-      <link>https://tinualikor.com/blog/adulting/</link>
-      <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/adulting/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 07 Jan 2019 05:53:31 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/absolutely-fabulous/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>I saw a post the other day that made me laugh…</p>
 
+<p><strong>“None of this new year new me bollocks, last year I was fabulous and next year I will be fabulous!”</strong></p>
+
+<p>Very amusing, and vaguely relevant to me, I’m fabulous some days, possibly two days a week, but honestly, I think it’s BS. Maybe not a new me, but a better version of myself wouldn’t hurt, perhaps like a software update! I don’t want to put myself under any undue pressure….believe me, I’m already precariously balancing several bits of Swedish china at once, but without any pressure how do you move forward? Improvement is growth and staying fabulous takes a bit of work! I just need to find the right amount of pressure that’ll kick me out of bed to get stuff done but won’t leave me feeling like the soggy lettuce I found in my fridge this morning, if I drop the ball sometimes. I haven’t made any new years resolutions because I have genuinely been overwhelmed with ‘stuff’, to do lists, trello boards, survival lists, breastfeeding, laundry, nursery runs, cooking, cleaning, answering my 2 year olds repeated questions on underground trains and if mummy is having another baby? And did I say laundry already?! Laundry is a full time occupation in itself with a newborn and toddler! The washer and dryer are regularly abused by us, my husband is the family expert on this, I have more of a fly by the seat of your pants approach semi conscious and bundling heaves of milk and mud stained items of clothing in for saving… long live the washer and dryer….if anyone’s deliberating, separate washer and dryer gets a thumbs up from me if you have the space it’ll change your life! Middle aged confessions of a mum… No need for resolutions, just live, set goals achievable and stretching, and ambitious if you feel the urge, and be kind to yourself.</p>
+
+<p>In my mind there’s so much I want to do, but I really need to ace the basic getting the kids ready in under 2 hours and maintain my demeanour routine before I start trying to conquer the world! Or do I? I mean what am I really waiting for? Waiting for perfection before I take on something I’m passionate about sounds counterintuitive, or like a well versed delay tactic…</p>
+
+<p>So….in pursuit of happiness and progress, not a tick boxing exercise or a fake fad or an overzealous binge diet, I am starting a new project! I am continuing my blog once a week channelling my thoughts and sharing my journey and soon I’ll be recording a podcast. Returning to a former passion I had the pleasure of finding in my teens with BBC Radio 4 when I recorded programmes and audio diaries. I’m looking forward to learning how to record, it feels like a natural progression from blogging, I’m in the process of researching, getting the right equipment and creating my structure and format. I have a few ideas I’m excited about and looking forward to putting it in to action. Watch this space!</p>
+
+<p>As you may know I’ve been living in Switzerland with my husband and now two children. Housewife with the mostess… parenting like a supply teacher who should consider retiring. Finding my way through local culture, far from where I call home and the people I love, starting a new chapter in the land of cheese, orgasmic chocolate and fancy watches. The biggest change for me has been getting used to what being a housewife means. Or perhaps defining what we <strong>want</strong> my role to be and what we <strong>need</strong> my role to be, and getting it to fit with my passions and my desired direction. I’m jack of all trades, master of most. Like most parents I can’t have a day off, I don’t get sick leave. I don’t have it all together, and running seamlessly….but I do have the drive and passion that fuels my exhausted body to teach myself how to make meat pies for my 2 year old at 1am because we can’t get them out here&hellip; Yes I did that last night… so basically Beyonce is right <strong>we run the world!</strong></p>
+
+<p>My second project this year will be something that’s close to my heart. Married to a techie, I’ve grown to love tech more and realise just how much it influences our daily lives. I’m motivated enough to function on minimal sleep and love technology, but most of all I love people and getting the best out of them. And I’ve had the pleasure of meeting awesome women out here, some who just like me followed their spouse across water, land, or just a car park to pursue a dream. Fully supporting the husbands career and building a home often means that some women are unable to fulfill their own goals and realise their own passions. Coupled with a system here that encourages women to stay at home, getting back to work after having a baby or just being a homemaking spouse can sometimes be a tall order, and even taller for us foreign folk, the expat crew. So I’m setting up a coding school called Tech Mums with childcare here in Zurich, Switzerland!</p>
+
+<figure>
+    <img src="/blog/absolutely-fabulous/images/josh_hu24b54a7992b206655459fac9c5647387_2423831_790x0_resize_q75_box.JPG"
+    srcset="
+    
+    /blog/absolutely-fabulous/images/josh_hu24b54a7992b206655459fac9c5647387_2423831_395x0_resize_q75_box.JPG 395w,
+          /blog/absolutely-fabulous/images/josh_hu24b54a7992b206655459fac9c5647387_2423831_790x0_resize_q75_box.JPG 790w,
+          /blog/absolutely-fabulous/images/josh_hu24b54a7992b206655459fac9c5647387_2423831_1580x0_resize_q75_box.JPG 1580w,
+          /blog/absolutely-fabulous/images/josh_hu24b54a7992b206655459fac9c5647387_2423831_2370x0_resize_q75_box.JPG 2370w,
+          /blog/absolutely-fabulous/images/josh_hu24b54a7992b206655459fac9c5647387_2423831_3160x0_resize_q75_box.JPG 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Tech Mums will be a place where mums can learn a new skill, invest in their career, network with like minded parents and professionals, socialise, update their skillset</p>
+
+<p>and get back to work if they choose! I had the pleasure of being a part of a similar initiative in London called Mums in Technology, and found it to be invaluable, supportive and groundbreaking. I am excited to be starting a project that inspires me to get more women in technology here in Switzerland! Lean into the sisterhood and stay fabulous…I want to inspire and be inspired. To create a welcoming, nurturing environment where mums can come and be themselves, gain a friend, gain a hobby, gain a skill and get the tools they need to kick some arse into a career they can thrive in…let’s go!</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Adulting</title>
             <link>https://tinualikor.com/blog/adulting/</link>
-        </image>
-          
-      <description>Last year I became a member of a club that no one wants to talk about. A club in which membership is one of the most painful experiences most will face in their lifetime and all are pretty much powerless to avoid. We found out we were expecting a baby in December 2017, excited and full of hope and expectation we celebrated.
- As tradition encourages we were hoping to share our good news after the first scan at 12 weeks….</description>
-    </item>
-    
-    <item>
-      <title>Fail Like a Boss</title>
-      <link>https://tinualikor.com/blog/fail-like-a-boss/</link>
-      <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
-        
-        
-        <image>
+            <pubDate>Fri, 28 Dec 2018 16:41:16 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/adulting/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Last year I became a member of a club that no one wants to talk about. A club in which membership is one of the most painful experiences most will face in their lifetime and all are pretty much powerless to avoid. We found out we were expecting a baby in December 2017, excited and full of hope and expectation we celebrated.</p>
 
+<figure>
+    <img src="/blog/adulting/images/scan_huba66da4fdbcd263f1dbed5daa5b10989_2253212_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/adulting/images/scan_huba66da4fdbcd263f1dbed5daa5b10989_2253212_395x0_resize_q75_box.jpg 395w,
+          /blog/adulting/images/scan_huba66da4fdbcd263f1dbed5daa5b10989_2253212_790x0_resize_q75_box.jpg 790w,
+          /blog/adulting/images/scan_huba66da4fdbcd263f1dbed5daa5b10989_2253212_1580x0_resize_q75_box.jpg 1580w,
+          /blog/adulting/images/scan_huba66da4fdbcd263f1dbed5daa5b10989_2253212_2370x0_resize_q75_box.jpg 2370w,
+          /blog/adulting/images/scan_huba66da4fdbcd263f1dbed5daa5b10989_2253212_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>As tradition encourages we were hoping to share our good news after the first scan at 12 weeks….we never got to 12 weeks… in fact we never got to 3 weeks We experienced a miscarriage on Christmas Eve last year. I spent the holidays putting on a brave face, trying to behave like nothing had happened, for my sanity, for my son, for us. Inside I was distraught, I rarely get a moment to myself, but when I did, I found myself sobbing, feeling an overwhelming sense of grief. Confused as to what had happened. What had I done wrong? Why had this happened? Did I run too fast for the bus? Did I over exert myself carrying shopping? Did I check the date on that yoghurt that I ate yesterday? Will this consuming fear of going to the toilet ever subside? Will I ever feel like me again? Will this feeling that my body has let me down ever go away?</p>
+
+<p>Pregnancy is beautiful and inspiring, and wonderful. Bursting with hope, expectation and dreams. Carrying a life, growing a life, sustaining and nurturing a life is beyond description. Your life changes the moment you read that pee stick, the moment you realise that a life is beginning to take shape. Your imagination begins to run away with itself. Names, hair colour, eye colour, is it going to be a boy or a girl, who will the baby look like, what colour scheme will the nursery have?</p>
+
+<p>I spent 5 gruelling hours waiting to be seen in a soulless hospital in Switzerland that resembled a burnt down housing estate in Peckham. I sat in the cold waiting room watching my son play with the water dispenser and throw all the leaflets neatly piled on the table in the bin, as he joyfully sang ‘tidy up tidy up’ .When I was called in the doctor asked me if I was sure I had been pregnant and did I feel pregnant? That question was like someone sucker punched me in the abdomen…what did she mean was I sure??! Would anyone lie in this situation?!!! She examined me and sent me home as though I had complained of a common cold.</p>
+
+<p>Among women who know they’re pregnant, it’s estimated about 1 in 8 pregnancies will end in miscarriage. 1 in 8 is a shocking statistic considering I only know two people who’ve told me they have experienced miscarriage. I’m not sure why we don’t talk about it, but I wish we did. I wish we spoke about our fears and shared our experiences. It makes us stronger, comforted, better equipped, and helps us to put things in perspective.</p>
+
+<p>When I got pregnant again, I wish someone told me it was normal to be anxious, to fear going to the toilet daily. To worry yourself into a state of immobilisation. Talking and sharing helps. Someone may find comfort in your story, someone may be going through the same pain and feel lost and alone. Miscarriage isn’t shameful, or embarrassing…it happens to so many of us…men feel it too…it’s out of our control… and takes life altering strength to keep on when you just want to disappear. I share this because I am not ashamed, I am proud that we found strength to persevere, we found healing and I’m grateful.</p>
+
+<p>Growing up I didn’t know if I would ever have children, I guess I never dreamed it would happen. Some spend their lives dreaming and hoping and one miscarriage after another their hopes disappear. There is fulfilment without children, there are so many wonderful opportunities and experiences in the world. Focus on what you have, your blessings, what makes you happy, what makes you smile. There are so many unwanted children that need a home, not enough of us consider adoption. And not all of us are meant to be parents…that’s ok too.</p>
+
+<p>So now I’m in week 8 of being a mother of two….still yet to wake up feeling like I know what I’m doing, or even should be doing….thought that might have happened by now… I’m so grateful for my daughter, she’s an absolute gem. Sleeps, eats, shits, repeats. What more could I ask for?!</p>
+
+<figure>
+    <img src="/blog/adulting/images/olivia_hu204fd731cf5242deb99667415d1deaa8_1969185_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/adulting/images/olivia_hu204fd731cf5242deb99667415d1deaa8_1969185_395x0_resize_q75_box.jpg 395w,
+          /blog/adulting/images/olivia_hu204fd731cf5242deb99667415d1deaa8_1969185_790x0_resize_q75_box.jpg 790w,
+          /blog/adulting/images/olivia_hu204fd731cf5242deb99667415d1deaa8_1969185_1580x0_resize_q75_box.jpg 1580w,
+          /blog/adulting/images/olivia_hu204fd731cf5242deb99667415d1deaa8_1969185_2370x0_resize_q75_box.jpg 2370w,
+          /blog/adulting/images/olivia_hu204fd731cf5242deb99667415d1deaa8_1969185_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>She’s pretty much a model baby, she’s not the problem, it’s me and trying to work out how on earth I am going to keep two under 3’s alive! My toddler has been ok ish….he’s absolutely in love with the newborn, surprisingly the novelty hasn’t quite worn off yet and he doesn’t think we’re taking her back for a refund! I’ve heard some scary horror stories of toddlers and ‘welcoming’ a new born and thankfully we haven’t had to manage that kind of jealousy. He hasn’t attempted to throw her in the bin or put her in the toilet…so we’re good!! Parents of multiple children, I salute you! Single parents of multiple children…I prostrate…are you even human?!</p>
+
+<p>My toddler does however think he’s the newest member of WWF and that my daughter is a potential prop for his wrestling, so the majority of my day is spent keeping the toddler at bay from the newborn, boisterous hugs and belly flops are not welcome! I’m still telling my toddler that the baby’s cot is not the most ideal place for his supersize noisy ambulance and isn’t really the most appropriate place to practice diving from…</p>
+
+<figure>
+    <img src="/blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg"
+    srcset="
+    
+    /blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_395x0_resize_q75_box.jpg 395w,
+          /blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_790x0_resize_q75_box.jpg 790w,
+          /blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_1580x0_resize_q75_box.jpg 1580w,
+          /blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_2370x0_resize_q75_box.jpg 2370w,
+          /blog/adulting/images/baddass_hu1b998023220b3bd340e6ed1e262c8ad1_2220213_3160x0_resize_q75_box.jpg 3160w
+
+    "
+    sizes="
+    (min-width: 830px) 790px,
+    100vw"/> 
+</figure>
+
+<p>Other than bucket loads of patience and repeating ‘be gentle’ and ‘soft hands’ like it’s going out of fashion there are a few things we did to try and prepare our loving toddler for the arrival of his sister. Firstly, everything we could change we changed at least 4 months before she was born. From the stories I’ve heard of toddlers battling for attention and displaying negative behavioural responses to new siblings it just seems like a human. emotionally charged response to a huge change, a change in hierarchy, a change in attention, focus, time, routine. So implementing these changes in stages and trying to remove the connection with the arrival of the new baby seemed liked the best solution. We changed my sons bed, moving him out of his cot and into a bed. We started using a double pram with just him in it. We put him into nursery a few days a week and generally talk about the baby in gentle conversations about his role as a big brother and how important he will be. So my son doesn’t associate any of those changes with the arrival of his sister. She hasn’t ‘taken’ anything that used to be his. Change can create resentment and hostility and that’s what I wanted to avoid. Now I need to work on ensuring that now she is here I create regular one on one time with my toddler. Mummy and Joshua time, where the baby isn’t hanging off my boob, and Joshua gets undiluted Mummy time. The baby sling is my new best friend. I can see this being a very steep learning curve…any tips throw them my way!!</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/fail-like-a-boss/images/feature_hu922ba9b63a8233a3c6308bd992b0acb5_4597736_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Fail Like a Boss</title>
             <link>https://tinualikor.com/blog/fail-like-a-boss/</link>
-        </image>
-          
-      <description>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?
-I then began questioning myself and why I took issue with the suggestion of a probationary period and the thought that my child may be rejected.</description>
-    </item>
-    
-    <item>
-      <title>Planned Boob Strikes Are Ok</title>
-      <link>https://tinualikor.com/blog/planned-boob-strikes-are-ok/</link>
-      <pubDate>Sat, 04 Aug 2018 09:32:43 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/planned-boob-strikes-are-ok/</guid>
-        
-        
-        <image>
+            <pubDate>Mon, 03 Sep 2018 06:01:00 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/fail-like-a-boss/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>I was sent an email last week congratulating me on my sons acceptance into Forest School. Apparently he has passed his probationary period! Yay!! ! But a probationary period….so he can pass or fail? Eurgh…please tell me they’re not starting this already! He’s 2!!! He can’t fail!! Surely?</p>
 
+<p>I then began questioning myself and why I took issue with the suggestion of a probationary period and the thought that my child may be rejected. ‘Rejection’ is so emotive! Are we so sensitive that the thought of being measured or challenged makes us inherently uncomfortable? Is failing at something a conclusive label? What’s wrong with failing?</p>
+
+<p>My son may not be best suited to a particular environment or activity depending on his disposition, but fail…? No no no….I’m a great believer in exposing children to as many new experiences as you can and letting them decide what they enjoy, or have an affinity for. I don’t want to be pushy or overbearing, just trying to find a balance between being encouraging and of course being protective and having his best interests at heart.</p>
+
+<p>So many of us pre-empt what we think our children can handle, we allow our own characteristics to define our children’s potential. We often label them, and spend their formative years projecting ourselves on their blank canvases, before they can even pronounce the word ‘fail’. In trying to protect them we confine them to our own limitations. Sometimes we confuse genuine care with control and fear. Finding the right balance is not easy…like most aspects of parenting!</p>
+
+<p>I’m not big on wildlife and nature. I’m in awe of the beauty of the world and intrigued by animals…and have had the pleasure of experiencing some truly breathtaking sights all over the world. But whilst I love an adventure, and have been known to get stuck into spontaneous excursions, white water rafting, zip lining and (indoor) skydiving, I’m Nigerian, my mum would slap me if I voluntarily threw myself out of a plane. But I’m more comfortable reclining in an air conditioned vehicle observing the various spectacles than being knee deep in dirt swatting away creatures that quite possibly could send me into a panicked state of hyperventilation!</p>
+
+<p>So roughing it in campsites, sharing a bathroom and using toilet facilities that involve holes in the ground are just not my thing. But of course I don’t want to inflict my princess ways on my child. He’ll learn some grit from me, but not the kind that’s suitable for any bush tucker trial. So I’m trying my best to put my own sensibilities aside and allow my son to learn and grow, and experience the world through his own lens. And that’s what parenting is all about. Trying not to screw your child over with the sometimes messed up issues you may have whilst keeping them alive and happy! Tall order!
+Have you ever been so afraid at failing at something you decided not to try at all? Is the fear of failure so strong that it surpasses the fear of regret or stagnation? I’m not sure why we’re so fearful of failing, personally I’d rather fail quickly and move on than paralyse myself into not trying at all. I guess I have more of a fear of regret than a fear of failure. Failing is ok, it means you had the guts to try and that in itself deserves a pat on the back. Failure should be followed by a personal debrief, what went wrong? How can you avoid it in the future? It’s ok to fail, but failing to try is a waste of your potential. And you have potential!</p>
+
+<p>So I’m altering my perspective and promoting failure, as it is in the trying that we truly become great. I want my son to grasp opportunities with both hands and I’ll try my best to stand behind him and cushion if his falls. Falling is ok, as long as you get up again. And it doesn’t matter how many times you fail, keep rising, and don’t stop trying.</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/planned-boob-strikes-are-ok/images/feature_hu9975dff1fa10e7614cba043485ce311b_267554_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Planned Boob Strikes Are Ok</title>
             <link>https://tinualikor.com/blog/planned-boob-strikes-are-ok/</link>
-        </image>
-          
-      <description>Emergency ones are not! In other words, choosing not to breastfeed is ok. Being forced to stop is not!
-It’s National Breast-Feeding week!! Let’s talk food….or should I say food provision…..or should I say shame ridden, guilt provoking, nurturing, painful, stressful, bonding, life sustaining breastfeeding!
-It can be all of these things and more, it is truly a personal experience and can be so different for each individual, provoking so many conflicting and often overwhelming emotions.</description>
-    </item>
-    
-    <item>
-      <title>Make Me a Priority</title>
-      <link>https://tinualikor.com/blog/make-me-a-priority/</link>
-      <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/make-me-a-priority/</guid>
-        
-        
-        <image>
+            <pubDate>Sat, 04 Aug 2018 09:32:43 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/planned-boob-strikes-are-ok/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>Emergency ones are not! In other words, choosing not to breastfeed is ok. Being forced to stop is not!</p>
 
+<p>It’s National Breast-Feeding week!! Let’s talk food….or should I say food provision…..or should I say shame ridden, guilt provoking, nurturing, painful, stressful, bonding, life sustaining breastfeeding!</p>
+
+<p>It can be all of these things and more, it is truly a personal experience and can be so different for each individual, provoking so many conflicting and often overwhelming emotions. It’s one of the ways we can feed our babies and its benefits are promoted and preached far and wide. At a life changing, stale milk perfumed time, faced with an overwhelming amount of information, advice, advertisements, exhausted by all the physiological changes, sleep deprived and possibly still recovering from and reliving birth trauma, welcoming a new baby can seem like a crazy rollercoaster!</p>
+
+<p>So what’s the problem? Why does the subject of breastfeeding evoke so much tension, frustration, anger, disappointment, passion, loneliness, abandonment, insecurity and guilt? Why are so many women quick to defend themselves and not simply unapologetically declare their choice?! Who are they fighting against? Why are so many made to feel selfish and inadequate, why do we still not understand the true mechanics behind breast feeding? And why are we so obsessed with ‘normal’ we ignore the possibility that we each have a new normal and babies don’t just automatically fit predefined routines.</p>
+
+<p>I watched a documentary on Dispatches about Breastfeeding presented by Kate Quilton. It was very informative about the benefits of breastfeeding, giving a balanced and non emotive view of the nutrients provided by both breastfeeding and formula feeding and essentially highlighting some of the reasons for the UKs decline in breastfeeding. It is now among one of the 10 countries in the world with the lowest breastfeeding rates, according to UNICEF.</p>
+
+<p>There are libraries of information out there preaching about the various benefits and many women proudly breastfeed their babies for as long as they can. And yet <strong>so many feel let down by a system that promotes breastfeeding but doesn’t provide sufficient support to enable women to be successful at it.</strong> Aside from medical reasons that prevent a woman from being able to breastfeed and those that choose formula as a preference, a woman who chooses to breastfeed needs support. Support from professionals, support from loved ones and support from the community.
+Professionals who declare that breast is best should make it their duty to equip women with the tools, support and education women need.</p>
+
+<p>Loved ones need to provide moral support, love, patience and non judgmental encouragement.
+The community as a whole needs to change its perception on breastfeeding and stop insisting mothers should breastfeed in toilets and other unsavoury corners! Would you eat your sushi in the toilet?!
+When I had my son, I had read a little about breastfeeding in one of the hundreds of prenatal leaflets given to me during pregnancy. I had seen women breastfeed but hadn’t given the reality a second thought. I attended an NCT class which bought me the best mummy friends I could ask for and during which I gained about 95% of my life’s baby knowledge crammed into a few days of eye watering, informative details. We were even introduced to a lactation specialist and given a breastfeeding hotline to call if we had any questions! Brilliant! I swiftly removed Nandos from my speed dial list and replaced it with my new breast friend! Aptly I called her the Milk Nurse.</p>
+
+<p>My son was a natural, no latching issues thankfully, no tongue tie to contend with and literally shuffled around until he found my breast as soon as he came out of the womb! Hurray, that was quick! And scarily easy….no no no…..how wrong I was…..
+I spent days and nights in pain as he fed. Reciting the words of my Milk Nurse in my head — <strong>‘if it hurts you’re doing something wrong’</strong> I changed position, changed breast, got him to re-latch and no joy. It still hurt like someone was piercing my nipple with a hot iron. I persevered and finally got an appointment to see a midwife who showed me that he was incorrectly latched on to my breast. Oh….ok….silly me(!) Not enough areola in his gob! But by now my nipples were already raw with pain, and newborns have a relentless feeding pattern, giving your body no time to heal! So <strong>I slapped on the nipple cream like my life depended on it</strong> and just hoped it would be ok. It got easier, and my high pain threshold combined with blind determination got me through….just. But memories of those isolating moments bring tears to my eyes and I can completely empathise with any woman who says <strong>‘enough is enough’</strong>.</p>
+
+<p>In those small hours of the morning when you’re trying to feed a hungry baby, exhausted and in pain with no one to help, advise or encourage you a decision has to be made. And <strong>choosing your sanity isn’t selfish</strong> or weak, or pathetic, or whimsical, it’s essential to being a healthy, good mother. There isn’t enough support to ensure that women are not faced with the pressure of choosing to ‘give up’. I suspect more women would feel less bitter about the whole breastfeeding conversation if their decision was truly a choice, rather than feeling defeated.</p>
+
+<p>And for those who breastfeed with ease, or who were able to establish a pattern and push through the initial discomfort, the hurdles don’t stop there. Many women are faced with a society that all too often frowns upon breastfeeding in public, judging them for publicly displaying their assets, as if their primary goal is to become the latest flasher on Clapham Common or compete with Kim Kardashian. Many of those who continue on the breast feeding path, are put off by public judgment, passive aggressive demands to ‘cover up’, disapproving eyes, insensitive requests to nurse in the toilet or sit where you can’t be seen, and quit before they are ready to. All because Mr Jones’ suppressed sexual frustrations and prudish background are confusing him with the nurture of a mother. Nothing wrong with abit of pent up frustration Mr Jones and no one scorns a private prude, but keep that archaic nonsense to yourself, and let a mama feed her baby in peace.</p>
+
+<p>Ultimately there is no question that <strong>fed is best!</strong> I don’t think anyone could really argue with that. The issue in my mind is that we as women want to give our children the best start in life and if health professionals say that this happens to be breast milk, most do everything within their power to make this happen. The problem is, it’s seldom that straightforward. Health concerns, low milk supply, early return to work and a barrage of other obstacles including lack of support and low confidence often mean breastfeeding just doesn’t happen for a lot of women. It’s this I wanted to really discuss, why are we so emotionally affected by someone telling us that breast is best and if for whatever reason we are unable or choose not to follow this route, we feel guilty, hostile towards those that even suggest that we are inadequate parents and vulnerable about our ability to provide for our child? Why do we care that breast is best? It’s a fact, but formula still provides a baby with nutrients that it needs for healthy development, so let’s change the narrative, stop shaming women who can’t or won’t and start supporting all mothers to grow healthy, happy babies.</p>
+
+<p>Women give themselves such a hard time about everything, and dissect every aspect of parenthood comparing notes with other parents, following advice from forums, friends and foes. Any increase in breast feeding has to be <strong>community inspired, community driven and community led.</strong> It needs to remove the negative badge it’s adorned for too long and remodel itself in the current environment it’s supposed to serve.</p>
+
+<p><strong>We all need to support each other more, lean into the sisterhood, however you feed your beautiful being we’re all on the same side of knackered.</strong> Shed the guilt. Empower yourself with the facts about breastfeeding. Scream for help until you’re heard without delay. Be confident in whatever feeding choice you make. And do what gives you peace and keeps you and your baby well and nourished. Fed is truly best, and all women need support no matter how they choose to feed their baby. What do you think?</p>
+]]&gt;</content:encoded>
+            </item>
         
-            <url>https://tinualikor.com/blog/make-me-a-priority/images/feature_hu275acd3f4b5175c7aad91a0d8cf92ccb_183840_790x0_resize_q75_box.jpg</url>
-          
+        
+        
+            <item>
             <title>Make Me a Priority</title>
             <link>https://tinualikor.com/blog/make-me-a-priority/</link>
-        </image>
-          
-      <description>I’m wearing sandals with ashy feet, an unironed t-shirt with a food stain or four, stretchy hareem pants and a multi coloured headscarf wrapped around sprouting doo doo plaits….and yes I left my house looking like this. Without even a second thought. Without even considering that I may be SEEN by someone who’s not partially sighted AND colourblind. And yes I still continued, offending my former self and every self confessed diva who looks upon me either with sympathy, disgust or that knowing smile from a fellow mum who’s also lost her mojo!</description>
-    </item>
-    
-  </channel>
+            <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/make-me-a-priority/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>I’m wearing sandals with ashy feet, an unironed t-shirt with a food stain or four, stretchy hareem pants and a multi coloured headscarf wrapped around sprouting doo doo plaits….and yes I left my house looking like this. Without even a second thought. Without even considering that I may be SEEN by someone who’s not partially sighted AND colourblind. And yes I still continued, offending my former self and every self confessed diva who looks upon me either with sympathy, disgust or that knowing smile from a fellow mum who’s also lost her mojo!!!</p>
+
+<p>I literally don’t even know when this happened?! When did I stop caring what I look like, and put my sons needs before my hygiene and self appearance!?? What has happened to me?? I don’t even bother to look at myself in the mirror some days! Clothed and brushed teeth is the bar that I’ve maintained for awhile. And I’m not feeling it!!!! I caught myself in the mirror the other day, on a nursery day when I had a few hours for myself. The recent heatwave prompted me to look for a skirt that I could still shoe horn my pregnant frame in to….until I saw my legs and was high kicked in the face by chewbacca’s not so distant relative. My 20 year old self would have slapped me and told me to get reacquainted with hair removal fast.</p>
+
+<p>So I’m trying to find my way back to me, at the very least a groomed version! Perhaps not to the twice weekly manicures but to something that resembles the girl who would proudly sip cocktails on a roof terrace.</p>
+
+<p>Motherhood is beautiful and all consuming, and quite possibly my hardest chapter so far, but I wouldn’t change it for anything. I want to live a life I’m proud of, I want to be who I want to be and create a life I don’t always need a vacation from. I’m not on the road to martyrdom, I literally just haven’t quite worked out how to do it all and still be me. But I’m getting there. And understanding more and more that a happy me is a better me. Be good to yourself.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>

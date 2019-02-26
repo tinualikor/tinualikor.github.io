@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
     <title>Life Motherhood on Tinu Alikor</title>
     <link>https://tinualikor.com/tags/life-motherhood/</link>
-    <description>Recent content in Life Motherhood on Tinu Alikor</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 20:01:34 +0000</lastBuildDate>
-    
-        <atom:link href="https://tinualikor.com/tags/life-motherhood/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Make Me a Priority</title>
-      <link>https://tinualikor.com/blog/make-me-a-priority/</link>
-      <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
-      
-      <guid>https://tinualikor.com/blog/make-me-a-priority/</guid>
-        
-        
-        <image>
+        <language>en-EN</language>
+        <description>Description of your feed</description>
+        <copyright>2019 - Tinu Alikor - All rights reserved</copyright>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tinualikor.com/tags/life-motherhood/" rel="self" type="application/rss+xml" />
 
         
-            <url>https://tinualikor.com/blog/make-me-a-priority/images/feature_hu275acd3f4b5175c7aad91a0d8cf92ccb_183840_790x0_resize_q75_box.jpg</url>
-          
+        
+            <item>
             <title>Make Me a Priority</title>
             <link>https://tinualikor.com/blog/make-me-a-priority/</link>
-        </image>
-          
-      <description>I’m wearing sandals with ashy feet, an unironed t-shirt with a food stain or four, stretchy hareem pants and a multi coloured headscarf wrapped around sprouting doo doo plaits….and yes I left my house looking like this. Without even a second thought. Without even considering that I may be SEEN by someone who’s not partially sighted AND colourblind. And yes I still continued, offending my former self and every self confessed diva who looks upon me either with sympathy, disgust or that knowing smile from a fellow mum who’s also lost her mojo!</description>
-    </item>
-    
-  </channel>
+            <pubDate>Fri, 27 Jul 2018 20:01:34 +0000</pubDate>
+            <guid>https://tinualikor.com/blog/make-me-a-priority/</guid>
+            <dc:creator></dc:creator>
+            <media:content type="image/jpeg" medium="image" width="900" height="600"
+                  url="https://www.yoursite.com/img/" />
+            <description>&lt;![CDATA[]]&gt;</description>
+            <content:encoded>&lt;![CDATA[<p>I’m wearing sandals with ashy feet, an unironed t-shirt with a food stain or four, stretchy hareem pants and a multi coloured headscarf wrapped around sprouting doo doo plaits….and yes I left my house looking like this. Without even a second thought. Without even considering that I may be SEEN by someone who’s not partially sighted AND colourblind. And yes I still continued, offending my former self and every self confessed diva who looks upon me either with sympathy, disgust or that knowing smile from a fellow mum who’s also lost her mojo!!!</p>
+
+<p>I literally don’t even know when this happened?! When did I stop caring what I look like, and put my sons needs before my hygiene and self appearance!?? What has happened to me?? I don’t even bother to look at myself in the mirror some days! Clothed and brushed teeth is the bar that I’ve maintained for awhile. And I’m not feeling it!!!! I caught myself in the mirror the other day, on a nursery day when I had a few hours for myself. The recent heatwave prompted me to look for a skirt that I could still shoe horn my pregnant frame in to….until I saw my legs and was high kicked in the face by chewbacca’s not so distant relative. My 20 year old self would have slapped me and told me to get reacquainted with hair removal fast.</p>
+
+<p>So I’m trying to find my way back to me, at the very least a groomed version! Perhaps not to the twice weekly manicures but to something that resembles the girl who would proudly sip cocktails on a roof terrace.</p>
+
+<p>Motherhood is beautiful and all consuming, and quite possibly my hardest chapter so far, but I wouldn’t change it for anything. I want to live a life I’m proud of, I want to be who I want to be and create a life I don’t always need a vacation from. I’m not on the road to martyrdom, I literally just haven’t quite worked out how to do it all and still be me. But I’m getting there. And understanding more and more that a happy me is a better me. Be good to yourself.</p>
+]]&gt;</content:encoded>
+            </item>
+        
+        
+    </channel>
 </rss>
