@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tinualikor.com/blog/its-ok-not-to-be-ok/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tinualikor.com/blog/mumgry/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -148,7 +153,7 @@
   
   <url>
     <loc>https://tinualikor.com/blog/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,7 +188,7 @@
   
   <url>
     <loc>https://tinualikor.com/tags/communication/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,6 +265,12 @@
   </url>
   
   <url>
+    <loc>https://tinualikor.com/tags/healing/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tinualikor.com/tags/hopes-and-dreams/</loc>
     <lastmod>2018-09-10T07:51:32+00:00</lastmod>
     <priority>0</priority>
@@ -272,14 +283,20 @@
   </url>
   
   <url>
+    <loc>https://tinualikor.com/tags/isolation/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tinualikor.com/tags/journey/</loc>
-    <lastmod>2018-08-06T06:01:01+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tinualikor.com/tags/life/</loc>
-    <lastmod>2018-09-17T07:35:01+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -315,7 +332,7 @@
   
   <url>
     <loc>https://tinualikor.com/tags/mental-health/</loc>
-    <lastmod>2018-08-13T06:01:01+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -447,7 +464,7 @@
   
   <url>
     <loc>https://tinualikor.com/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
