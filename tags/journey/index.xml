@@ -26,7 +26,8 @@
           
          
 
-            <description>&lt;![CDATA[]]&gt;</description>
+            <description>&lt;![CDATA[Hey how are you?
+I’m good, how are you?]]&gt;</description>
             <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Hey how are you?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m good, how are you?&lt;/p&gt;
@@ -86,7 +87,7 @@
           
          
 
-            <description>&lt;![CDATA[]]&gt;</description>
+            <description>&lt;![CDATA[Today, I’m diving head first into my blog.]]&gt;</description>
             <content:encoded>&lt;![CDATA[&lt;figure&gt;
     &lt;img src=&#34;https://tinualikor.com/blog/new-beginnings/images/road_hill_hud4ccc1cfa4451ecf4d15584e0f0ad3ba_556427_790x0_resize_q75_box.jpg&#34;
     srcset=&#34;

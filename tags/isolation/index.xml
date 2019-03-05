@@ -26,7 +26,8 @@
           
          
 
-            <description>&lt;![CDATA[]]&gt;</description>
+            <description>&lt;![CDATA[Hey how are you?
+I’m good, how are you?]]&gt;</description>
             <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Hey how are you?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m good, how are you?&lt;/p&gt;
