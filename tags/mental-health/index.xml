@@ -40,8 +40,8 @@
           
          
 
-            <description>&lt;![CDATA[Hey how are you?
-I’m good, how are you?]]&gt;</description>
+            <description>Hey how are you?
+I’m good, how are you?</description>
             <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Hey how are you?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m good, how are you?&lt;/p&gt;
@@ -115,7 +115,7 @@ I’m good, how are you?]]&gt;</description>
           
          
 
-            <description>&lt;![CDATA[Growing up without a father I always wondered what happened between my parents.]]&gt;</description>
+            <description>Growing up without a father I always wondered what happened between my parents.</description>
             <content:encoded>&lt;![CDATA[&lt;p&gt;Growing up without a father I always wondered what happened between my parents. In my naivety and innocence I questioned what part I had played in my father leaving before I was 3, and what I could have done to get him to stay.&lt;/p&gt;
 
 &lt;figure&gt;
