@@ -4,7 +4,54 @@
   
   <url>
     <loc>https://tinualikor.com/blog/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/tags/financial-freedom/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/blog/its-a-wrap/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/tags/motivation/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/tags/pandemic/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/tags/parenthood/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/tags/selflove/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/tags/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinualikor.com/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -27,18 +74,6 @@
   </url>
   
   <url>
-    <loc>https://tinualikor.com/tags/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tinualikor.com/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tinualikor.com/blog/village-people/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
@@ -49,25 +84,7 @@
   </url>
   
   <url>
-    <loc>https://tinualikor.com/tags/motivation/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tinualikor.com/tags/parenthood/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tinualikor.com/tags/priorities/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tinualikor.com/tags/selflove/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
